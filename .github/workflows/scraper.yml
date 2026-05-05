@@ -36,5 +36,5 @@ jobs:
       - name: Commit and push JSON data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: Broadway HK Movie Data"
-          file_pattern: "data/*.json"
+          commit_message: "Auto-update: Finland Movie Data"
+          file_pattern: "Data/*.json" # Fixed the capital 'D'
