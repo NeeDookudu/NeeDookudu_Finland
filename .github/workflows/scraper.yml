@@ -1,4 +1,4 @@
-name: Broadway HK Data Scraper
+name: Finland fetcher
 
 on:
   schedule:
