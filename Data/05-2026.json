@@ -321,13 +321,13 @@
     "time": "12:00",
     "price": 12.5,
     "sold": 0,
-    "free": 186,
-    "total": 186,
+    "free": 185,
+    "total": 185,
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3116/conversions/amrum_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:33.499289"
+    "lastUpdated": "2026-05-12T11:29:34.022173"
   },
   {
     "id": "c76af24e-b90a-47f3-96cc-ad153f2c5986",
@@ -342,7 +342,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3022/conversions/father-mother-sister-brother_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:33.749972"
+    "lastUpdated": "2026-05-12T11:29:34.274931"
   },
   {
     "id": "9e4500a1-6b99-40b1-9367-bd768711a163",
@@ -357,7 +357,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3083/conversions/michael_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:34.003459"
+    "lastUpdated": "2026-05-12T11:29:34.511849"
   },
   {
     "id": "2db19409-bb38-432a-b1de-0525f512a6d1",
@@ -372,7 +372,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3205/conversions/JaTb0tkF978svIWt7TVrVCNsjqGr4O-metaVG9wR3VuX3dlYl9qdWxpc3RlLmpwZw==--poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:34.252196"
+    "lastUpdated": "2026-05-12T11:29:34.761019"
   },
   {
     "id": "64ad8a42-a17e-44cb-9c48-80ff624b29cf",
@@ -387,7 +387,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3191/conversions/bamse-och-havets-hemlighet_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:34.522315"
+    "lastUpdated": "2026-05-12T11:29:35.004096"
   },
   {
     "id": "c8387de1-ceda-4697-ab36-62c884d55e8c",
@@ -402,7 +402,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:34.772168"
+    "lastUpdated": "2026-05-12T11:29:35.242187"
   },
   {
     "id": "3392fbec-c923-4628-bb5e-1ef9219aa3f6",
@@ -417,7 +417,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3124/conversions/the-devil-wears-prada-2_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:35.024936"
+    "lastUpdated": "2026-05-12T11:29:35.477306"
   },
   {
     "id": "24a04ee7-a912-41ac-acdc-f4c778cbdffb",
@@ -432,7 +432,7 @@
     "occupancy": 49.21,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3137/conversions/R0cfTTsZ3eIoBMRgJXwN1lI5Kgrfcu-metaUG9zdGVyIGggMS5wbmc=--poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:35.814381"
+    "lastUpdated": "2026-05-12T11:29:36.209030"
   },
   {
     "id": "83006aeb-88fb-444d-af35-ebbdfc870b60",
@@ -447,7 +447,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3198/conversions/iron-maiden-burning-ambition_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:35.538643"
+    "lastUpdated": "2026-05-12T11:29:35.952923"
   },
   {
     "id": "33c158ce-fd8c-4cb0-bd3f-c76a015e0804",
@@ -612,7 +612,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3135/conversions/the-sheep-detectives_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:36.069104"
+    "lastUpdated": "2026-05-12T11:29:36.452906"
   },
   {
     "id": "350a91f4-1d68-4dd5-a103-9a0e722845fc",
@@ -627,7 +627,7 @@
     "occupancy": 3.14,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3234/conversions/8Mk8r75FScAFOfq5ccF7uVdXseUIa9-metaQXRoaXJhZGkxLmpwZw==--poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:35.285155"
+    "lastUpdated": "2026-05-12T11:29:35.718173"
   },
   {
     "id": "87aec864-ca4c-4b98-9d92-918f24682db8",
@@ -642,7 +642,7 @@
     "occupancy": 10.47,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3243/conversions/9idLxLZ8llv9e3kGGmnKmTgy35wszs-metaa2FydXBwdS5qcGVn--poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:36.837321"
+    "lastUpdated": "2026-05-12T11:29:37.171668"
   },
   {
     "id": "350a91f4-1d68-4dd5-a103-9a0e722845fc",
@@ -675,7 +675,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3022/conversions/father-mother-sister-brother_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:39.460539"
+    "lastUpdated": "2026-05-12T11:29:39.531875"
   },
   {
     "id": "ed865bfe-dbb4-4bc8-b053-adaa160d0594",
@@ -696,7 +696,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:36.326157"
+    "lastUpdated": "2026-05-12T11:29:36.695660"
   },
   {
     "id": "7fa41f6c-39bc-41a7-baa5-5c7c10583628",
@@ -711,7 +711,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3244/conversions/in-the-grey-miljardikeikka_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:36.574663"
+    "lastUpdated": "2026-05-12T11:29:36.927881"
   },
   {
     "id": "528b3d9c-2c4d-44b5-812e-bb6512a7131f",
@@ -726,7 +726,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3074/conversions/primavera_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:37.126026"
+    "lastUpdated": "2026-05-12T11:29:37.410360"
   },
   {
     "id": "c43b632e-b172-45a7-8421-9de95a5fcb80",
@@ -741,7 +741,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3124/conversions/the-devil-wears-prada-2_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:37.397364"
+    "lastUpdated": "2026-05-12T11:29:37.640078"
   },
   {
     "id": "993bbf46-5845-4e63-ac26-1f4738d8306c",
@@ -756,7 +756,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3083/conversions/michael_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:37.658688"
+    "lastUpdated": "2026-05-12T11:29:37.868085"
   },
   {
     "id": "4df1ce98-40cd-4e49-887c-18fe8cbe8af3",
@@ -771,7 +771,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:37.913871"
+    "lastUpdated": "2026-05-12T11:29:38.098828"
   },
   {
     "id": "37d97294-9437-4999-8243-e7b33938ef57",
@@ -786,7 +786,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3083/conversions/michael_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:38.167685"
+    "lastUpdated": "2026-05-12T11:29:38.346302"
   },
   {
     "id": "af6ffdf0-8185-45ec-8f40-d464b7d9fa54",
@@ -801,7 +801,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3198/conversions/iron-maiden-burning-ambition_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:38.429909"
+    "lastUpdated": "2026-05-12T11:29:38.588924"
   },
   {
     "id": "afb6b144-a13a-4ba3-bf24-db9c73ec7b67",
@@ -816,7 +816,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3074/conversions/primavera_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:38.683789"
+    "lastUpdated": "2026-05-12T11:29:38.824818"
   },
   {
     "id": "11db6bf5-442a-4ff7-96d4-b1271888a61a",
@@ -831,7 +831,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3124/conversions/the-devil-wears-prada-2_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:38.946669"
+    "lastUpdated": "2026-05-12T11:29:39.055186"
   },
   {
     "id": "039bcaf3-3e7a-4ac9-9035-1b391c598b27",
@@ -846,7 +846,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3207/conversions/the-mandalorian-and-grogu_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:39.207711"
+    "lastUpdated": "2026-05-12T11:29:39.295373"
   },
   {
     "id": "49c363e8-c4e3-4619-9c2e-bfb2132722d2",
@@ -861,7 +861,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3244/conversions/in-the-grey-miljardikeikka_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:39.715309"
+    "lastUpdated": "2026-05-12T11:29:39.766048"
   },
   {
     "id": "90a63f1b-01d7-4721-9933-f468c30e5db9",
@@ -876,7 +876,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3235/conversions/kevlarsjal_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:39.966988"
+    "lastUpdated": "2026-05-12T11:29:40.001085"
   },
   {
     "id": "c111d92e-d448-4951-bc58-eb0d6f8d2745",
@@ -891,7 +891,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3207/conversions/the-mandalorian-and-grogu_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:40.244088"
+    "lastUpdated": "2026-05-12T11:29:40.249756"
   },
   {
     "id": "1dcf1d2e-9b2d-489c-ac2b-c82e21f2aaa7",
@@ -906,7 +906,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3074/conversions/primavera_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:40.513040"
+    "lastUpdated": "2026-05-12T11:29:40.497596"
   },
   {
     "id": "b26c2a1a-a513-4a2d-92a2-470ed1d96eb8",
@@ -921,6 +921,6 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3124/conversions/the-devil-wears-prada-2_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-12T09:17:40.770183"
+    "lastUpdated": "2026-05-12T11:29:40.730639"
   }
 ]
