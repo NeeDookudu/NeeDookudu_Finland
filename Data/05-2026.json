@@ -1151,7 +1151,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3124/conversions/the-devil-wears-prada-2_poster-poster_large.jpg",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-05-24T14:47:25.935795"
   },
   {
@@ -1167,7 +1167,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-24T14:47:26.218595"
+    "lastUpdated": "2026-05-24T15:57:50.084019"
   },
   {
     "id": "8206de9e-966d-4c15-91cf-b685e34b4599",
@@ -1182,7 +1182,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3259/conversions/romeria_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-24T14:47:26.493348"
+    "lastUpdated": "2026-05-24T15:57:50.320966"
   },
   {
     "id": "8873e053-1100-4079-a324-564cb94a5746",
@@ -1197,7 +1197,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3083/conversions/michael_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-24T14:47:26.777615"
+    "lastUpdated": "2026-05-24T15:57:50.554255"
   },
   {
     "id": "8cff7510-3f5b-4eb2-adee-a80615615793",
@@ -1212,7 +1212,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3074/conversions/primavera_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-24T14:47:27.060447"
+    "lastUpdated": "2026-05-24T15:57:50.783476"
   },
   {
     "id": "7b5b5361-d4c1-4403-bf9c-c7dd5d3a50b6",
@@ -1227,7 +1227,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3173/conversions/ecrire-la-vie-annie-ernaux-racontee-par-des-lyceennes-et-des-lyceens_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-24T14:47:27.346769"
+    "lastUpdated": "2026-05-24T15:57:51.020068"
   },
   {
     "id": "65228c67-04d3-4472-b623-05d379a98a3c",
@@ -1242,7 +1242,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-24T14:47:27.635928"
+    "lastUpdated": "2026-05-24T15:57:51.247980"
   },
   {
     "id": "e5506f67-8e37-4980-993b-6a0fb6385711",
@@ -1257,7 +1257,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3022/conversions/father-mother-sister-brother_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-24T14:47:27.921645"
+    "lastUpdated": "2026-05-24T15:57:51.477090"
   },
   {
     "id": "bb2c27e4-d26a-48e5-aae9-f507570164c2",
@@ -1272,7 +1272,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3124/conversions/the-devil-wears-prada-2_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-24T14:47:28.198493"
+    "lastUpdated": "2026-05-24T15:57:51.711132"
   },
   {
     "id": "37e8782f-9821-4e34-be01-32773ae63ea4",
@@ -1287,7 +1287,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3207/conversions/the-mandalorian-and-grogu_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-24T14:47:28.475639"
+    "lastUpdated": "2026-05-24T15:57:51.945575"
   },
   {
     "id": "582b297b-6e18-400a-a47e-2034ba72987f",
@@ -1403,14 +1403,14 @@
     "date": "2026-05-29",
     "time": "16:30",
     "price": 15,
-    "sold": 15,
-    "free": 176,
+    "sold": 17,
+    "free": 174,
     "total": 191,
-    "gross": 225,
-    "occupancy": 7.85,
+    "gross": 255,
+    "occupancy": 8.9,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3266/conversions/zWK8C2oWJoRrkFROgHlEGki9QUwySh-metaZDEuanBn--poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-24T14:47:28.760912"
+    "lastUpdated": "2026-05-24T15:57:52.183853"
   },
   {
     "id": "69ebe52d-ec7f-40b5-9e06-08e0f9d1aff9",
@@ -1431,6 +1431,6 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3268/conversions/le-fabuleux-destin-damelie-poulain_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-24T14:47:29.048859"
+    "lastUpdated": "2026-05-24T15:57:52.413737"
   }
 ]
