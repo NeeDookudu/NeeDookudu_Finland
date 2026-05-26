@@ -1167,7 +1167,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-26T04:41:44.807605"
+    "lastUpdated": "2026-05-26T08:28:55.594970"
   },
   {
     "id": "8206de9e-966d-4c15-91cf-b685e34b4599",
@@ -1182,7 +1182,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3259/conversions/romeria_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-26T04:41:45.073483"
+    "lastUpdated": "2026-05-26T08:28:55.911275"
   },
   {
     "id": "8873e053-1100-4079-a324-564cb94a5746",
@@ -1197,7 +1197,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3083/conversions/michael_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-26T04:41:45.343203"
+    "lastUpdated": "2026-05-26T08:28:56.214810"
   },
   {
     "id": "8cff7510-3f5b-4eb2-adee-a80615615793",
@@ -1212,7 +1212,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3074/conversions/primavera_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-26T04:41:45.613120"
+    "lastUpdated": "2026-05-26T08:28:56.529696"
   },
   {
     "id": "7b5b5361-d4c1-4403-bf9c-c7dd5d3a50b6",
@@ -1227,7 +1227,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3173/conversions/ecrire-la-vie-annie-ernaux-racontee-par-des-lyceennes-et-des-lyceens_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-26T04:41:45.882134"
+    "lastUpdated": "2026-05-26T08:28:56.834249"
   },
   {
     "id": "65228c67-04d3-4472-b623-05d379a98a3c",
@@ -1242,7 +1242,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-26T04:41:46.172115"
+    "lastUpdated": "2026-05-26T08:28:57.138071"
   },
   {
     "id": "e5506f67-8e37-4980-993b-6a0fb6385711",
@@ -1257,7 +1257,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3022/conversions/father-mother-sister-brother_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-26T04:41:46.432116"
+    "lastUpdated": "2026-05-26T08:28:57.438947"
   },
   {
     "id": "bb2c27e4-d26a-48e5-aae9-f507570164c2",
@@ -1272,7 +1272,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3124/conversions/the-devil-wears-prada-2_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-26T04:41:46.689023"
+    "lastUpdated": "2026-05-26T08:28:57.742368"
   },
   {
     "id": "37e8782f-9821-4e34-be01-32773ae63ea4",
@@ -1287,7 +1287,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3207/conversions/the-mandalorian-and-grogu_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-26T04:41:46.948861"
+    "lastUpdated": "2026-05-26T08:28:58.063831"
   },
   {
     "id": "582b297b-6e18-400a-a47e-2034ba72987f",
@@ -1403,14 +1403,14 @@
     "date": "2026-05-29",
     "time": "16:30",
     "price": 15,
-    "sold": 40,
-    "free": 151,
+    "sold": 41,
+    "free": 150,
     "total": 191,
-    "gross": 600,
-    "occupancy": 20.94,
+    "gross": 615,
+    "occupancy": 21.47,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3266/conversions/zWK8C2oWJoRrkFROgHlEGki9QUwySh-metaZDEuanBn--poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-26T04:41:47.225820"
+    "lastUpdated": "2026-05-26T08:28:58.381638"
   },
   {
     "id": "69ebe52d-ec7f-40b5-9e06-08e0f9d1aff9",
@@ -1431,6 +1431,6 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3268/conversions/le-fabuleux-destin-damelie-poulain_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-26T04:41:47.489823"
+    "lastUpdated": "2026-05-26T08:28:58.720454"
   }
 ]
