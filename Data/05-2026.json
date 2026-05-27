@@ -1206,13 +1206,13 @@
     "time": "12:15",
     "price": 12.5,
     "sold": 0,
-    "free": 186,
-    "total": 186,
+    "free": 185,
+    "total": 185,
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3074/conversions/primavera_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-05-27T02:53:02.340856"
+    "status": "ok",
+    "lastUpdated": "2026-05-27T11:03:18.003640"
   },
   {
     "id": "7b5b5361-d4c1-4403-bf9c-c7dd5d3a50b6",
@@ -1221,13 +1221,13 @@
     "time": "14:15",
     "price": 12.5,
     "sold": 0,
-    "free": 186,
-    "total": 186,
+    "free": 184,
+    "total": 184,
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3173/conversions/ecrire-la-vie-annie-ernaux-racontee-par-des-lyceennes-et-des-lyceens_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-05-27T02:53:02.569460"
+    "status": "ok",
+    "lastUpdated": "2026-05-27T11:03:18.240326"
   },
   {
     "id": "65228c67-04d3-4472-b623-05d379a98a3c",
@@ -1241,8 +1241,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-05-27T02:53:02.817581"
+    "status": "ok",
+    "lastUpdated": "2026-05-27T11:03:18.483263"
   },
   {
     "id": "e5506f67-8e37-4980-993b-6a0fb6385711",
@@ -1256,8 +1256,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3022/conversions/father-mother-sister-brother_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-05-27T02:53:03.060650"
+    "status": "ok",
+    "lastUpdated": "2026-05-27T11:03:18.713425"
   },
   {
     "id": "bb2c27e4-d26a-48e5-aae9-f507570164c2",
@@ -1271,8 +1271,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3124/conversions/the-devil-wears-prada-2_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-05-27T02:53:03.292641"
+    "status": "ok",
+    "lastUpdated": "2026-05-27T11:03:18.942039"
   },
   {
     "id": "37e8782f-9821-4e34-be01-32773ae63ea4",
@@ -1286,8 +1286,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3207/conversions/the-mandalorian-and-grogu_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-05-27T02:53:03.521154"
+    "status": "ok",
+    "lastUpdated": "2026-05-27T11:03:19.176386"
   },
   {
     "id": "582b297b-6e18-400a-a47e-2034ba72987f",
@@ -1403,14 +1403,14 @@
     "date": "2026-05-29",
     "time": "16:30",
     "price": 15,
-    "sold": 50,
-    "free": 141,
+    "sold": 51,
+    "free": 140,
     "total": 191,
-    "gross": 750,
-    "occupancy": 26.18,
+    "gross": 765,
+    "occupancy": 26.7,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3266/conversions/zWK8C2oWJoRrkFROgHlEGki9QUwySh-metaZDEuanBn--poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-05-27T02:53:04.237610"
+    "status": "ok",
+    "lastUpdated": "2026-05-27T11:03:19.906085"
   },
   {
     "id": "69ebe52d-ec7f-40b5-9e06-08e0f9d1aff9",
@@ -1431,7 +1431,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3268/conversions/le-fabuleux-destin-damelie-poulain_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-27T07:31:48.676679"
+    "lastUpdated": "2026-05-27T11:03:23.606442"
   },
   {
     "id": "d11fee76-322d-49b7-89c3-29a4f1b37f68",
@@ -1445,8 +1445,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3124/conversions/the-devil-wears-prada-2_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-05-27T02:53:03.751106"
+    "status": "ok",
+    "lastUpdated": "2026-05-27T11:03:19.412011"
   },
   {
     "id": "9c266c7e-a09e-4a11-a848-52ba38e62ea8",
@@ -1460,8 +1460,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3298/conversions/bUwWrfJa7uSCdUEphevdQQuORy8MQb-metaQkFDS1JPT01TIF9BMjQgX1BPU1RFUl9SRU5BVEFfRklfRklOQUxfNzB4MTAwLmpwZw==--poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-05-27T02:53:03.988763"
+    "status": "ok",
+    "lastUpdated": "2026-05-27T11:03:19.648606"
   },
   {
     "id": "2bc5fbff-2799-48ae-adfb-a14a3f17866f",
@@ -1475,8 +1475,8 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3267/conversions/AP70XZPDqqb9OLx1RJKuA9NL7rI8dm-metaTGFtbWFzZXRzaXZhdF9Qb3N0ZXJfNzB4MTAwX0ZJLmpwZw==--poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-05-27T02:53:04.477286"
+    "status": "ok",
+    "lastUpdated": "2026-05-27T11:03:20.136700"
   },
   {
     "id": "df5ffe63-4421-430f-bb1b-d234b01c369d",
@@ -1490,8 +1490,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3207/conversions/the-mandalorian-and-grogu_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-05-27T02:53:04.714983"
+    "status": "ok",
+    "lastUpdated": "2026-05-27T11:03:20.366416"
   },
   {
     "id": "57c96c42-5df9-4e3a-a71e-7a05a4b7a328",
@@ -1505,8 +1505,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3083/conversions/michael_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-05-27T02:53:04.951032"
+    "status": "ok",
+    "lastUpdated": "2026-05-27T11:03:20.604104"
   },
   {
     "id": "0a09abc4-2007-4bf6-afb9-cdc15ea936d0",
@@ -1520,8 +1520,8 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3191/conversions/bamse-och-havets-hemlighet_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-05-27T02:53:05.178086"
+    "status": "ok",
+    "lastUpdated": "2026-05-27T11:03:20.844413"
   },
   {
     "id": "5a966f72-7e4f-4652-aa06-b0836bcdf5a8",
@@ -1536,7 +1536,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-27T07:31:45.722876"
+    "lastUpdated": "2026-05-27T11:03:21.074089"
   },
   {
     "id": "7ba8bd56-16b1-4919-8b3c-adfc5318d1b7",
@@ -1551,7 +1551,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3253/conversions/jeunes-meres_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-27T07:31:46.011117"
+    "lastUpdated": "2026-05-27T11:03:21.302260"
   },
   {
     "id": "898acbe2-be9a-4405-b9fd-6f98ab5809ef",
@@ -1566,7 +1566,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3124/conversions/the-devil-wears-prada-2_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-27T07:31:46.309627"
+    "lastUpdated": "2026-05-27T11:03:21.549016"
   },
   {
     "id": "e6ef1e17-c1dc-40b7-9987-430f0d125d72",
@@ -1581,7 +1581,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3074/conversions/primavera_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-27T07:31:46.607173"
+    "lastUpdated": "2026-05-27T11:03:21.778310"
   },
   {
     "id": "d651bd96-9c58-40b4-9fec-798b6aa5a8e4",
@@ -1596,7 +1596,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3298/conversions/bUwWrfJa7uSCdUEphevdQQuORy8MQb-metaQkFDS1JPT01TIF9BMjQgX1BPU1RFUl9SRU5BVEFfRklfRklOQUxfNzB4MTAwLmpwZw==--poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-27T07:31:46.903458"
+    "lastUpdated": "2026-05-27T11:03:22.007538"
   },
   {
     "id": "89429374-0bcc-497c-98bf-7a05c0319716",
@@ -1611,7 +1611,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3022/conversions/father-mother-sister-brother_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-27T07:31:47.200103"
+    "lastUpdated": "2026-05-27T11:03:22.240865"
   },
   {
     "id": "1eec8151-2200-4335-8ad3-33007a72a5b7",
@@ -1626,7 +1626,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-27T07:31:47.496487"
+    "lastUpdated": "2026-05-27T11:03:22.471063"
   },
   {
     "id": "898b9826-de5d-4ede-8de3-05960dd0713c",
@@ -1641,7 +1641,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3207/conversions/the-mandalorian-and-grogu_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-27T07:31:47.797684"
+    "lastUpdated": "2026-05-27T11:03:22.701376"
   },
   {
     "id": "50bbd9e1-df1c-4ca6-8e2e-0318425884da",
@@ -1656,7 +1656,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-27T07:31:48.095023"
+    "lastUpdated": "2026-05-27T11:03:22.929177"
   },
   {
     "id": "3b0dea7e-2612-4da7-a368-58186f0e307d",
@@ -1671,7 +1671,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3259/conversions/romeria_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-05-27T07:31:48.392252"
+    "lastUpdated": "2026-05-27T11:03:23.151458"
   },
   {
     "id": "d11fee76-322d-49b7-89c3-29a4f1b37f68",
@@ -1708,5 +1708,20 @@
     "status": "error",
     "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/0a09abc4-2007-4bf6-afb9-cdc15ea936d0/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7ffaa3586610>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
     "lastUpdated": "2026-05-27T07:29:42.132598"
+  },
+  {
+    "id": "7dde0628-ad4a-4538-99f5-9770d267d1e8",
+    "movie": "Peddi",
+    "date": "2026-06-04",
+    "time": "16:00",
+    "price": 19,
+    "sold": 0,
+    "free": 191,
+    "total": 191,
+    "gross": 0,
+    "occupancy": 0.0,
+    "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3313/conversions/Xdec16cZEH8d2AleHxgmBjEXEZebs9-metacGQ3LlBORw==--poster_large.jpg",
+    "status": "ok",
+    "lastUpdated": "2026-05-27T11:03:23.376524"
   }
 ]
