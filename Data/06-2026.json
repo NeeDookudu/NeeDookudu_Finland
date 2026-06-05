@@ -146,8 +146,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3268/conversions/le-fabuleux-destin-damelie-poulain_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:53.421634"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:27.545567"
   },
   {
     "id": "1d37c8be-a186-4ade-8a58-4a816c899ffe",
@@ -155,14 +155,14 @@
     "date": "2026-06-12",
     "time": "16:30",
     "price": 16.5,
-    "sold": 25,
-    "free": 166,
+    "sold": 26,
+    "free": 165,
     "total": 191,
-    "gross": 412.5,
-    "occupancy": 13.09,
+    "gross": 429.0,
+    "occupancy": 13.61,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3316/conversions/SrezUYaH9PociXbvdilCgdsWJ1iLEl-metaSnVsaXN0ZS5qcGVn--poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:56.976488"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:31.472825"
   },
   {
     "id": "fe9da922-de89-4424-ba73-f9077a7f23b7",
@@ -176,8 +176,8 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3135/conversions/the-sheep-detectives_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:53.185828"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:27.273529"
   },
   {
     "id": "05ad56b6-c693-4ef0-8e71-88bb2e338594",
@@ -191,8 +191,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3191/conversions/bamse-och-havets-hemlighet_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:53.908098"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:28.087249"
   },
   {
     "id": "c2735bfe-0339-4195-9de1-b6b5dd5275d2",
@@ -206,8 +206,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3268/conversions/le-fabuleux-destin-damelie-poulain_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:55.431321"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:29.773268"
   },
   {
     "id": "fc2d6824-3925-48a7-b59b-4af632970c00",
@@ -221,8 +221,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:56.187164"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:30.609040"
   },
   {
     "id": "0b7966ea-408d-4311-a185-089822505e27",
@@ -266,8 +266,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3083/conversions/michael_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:53.662773"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:27.811872"
   },
   {
     "id": "83c8fbb6-0863-4831-b4db-90175c80ce40",
@@ -281,8 +281,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:54.178472"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:28.367232"
   },
   {
     "id": "a98f7293-cc8d-4c00-ae48-54beb9435311",
@@ -296,8 +296,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3319/conversions/partir-un-jour_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:54.436475"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:28.640763"
   },
   {
     "id": "39daeced-0028-4d6c-96aa-b9bb3070d98b",
@@ -311,8 +311,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3074/conversions/primavera_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:54.684561"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:28.931642"
   },
   {
     "id": "efabb3f7-db04-4621-a694-fbc76960b520",
@@ -326,8 +326,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:54.922429"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:29.204261"
   },
   {
     "id": "3ad9bbfc-9f8f-4dd2-9c0b-7d800286ae6d",
@@ -341,8 +341,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3259/conversions/romeria_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:55.163440"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:29.481860"
   },
   {
     "id": "2c18d8b8-7179-49fd-a744-e4e98601379d",
@@ -356,8 +356,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3319/conversions/partir-un-jour_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:55.696084"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:30.049760"
   },
   {
     "id": "9f734c3d-8e38-41a8-809f-4e1a219992e3",
@@ -371,8 +371,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3323/conversions/disclosure-day_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:55.935278"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:30.323674"
   },
   {
     "id": "9b13d6f4-fce3-4620-88a6-a7ce1e54c08b",
@@ -386,8 +386,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3253/conversions/jeunes-meres_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:56.440528"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:30.895786"
   },
   {
     "id": "b9b88680-9ba4-497e-9b41-b52570e12bcd",
@@ -401,8 +401,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3022/conversions/father-mother-sister-brother_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-05T14:57:56.711156"
+    "status": "ok",
+    "lastUpdated": "2026-06-05T19:15:31.175060"
   },
   {
     "id": "898acbe2-be9a-4405-b9fd-6f98ab5809ef",
