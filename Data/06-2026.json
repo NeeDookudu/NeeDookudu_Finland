@@ -578,14 +578,14 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3074/conversions/primavera_poster-poster_large.jpg",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-06-14T17:55:51.371986"
   },
   {
     "id": "69b84a4e-6eac-47c4-8ac2-c1f435364710",
     "status": "error",
-    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/69b84a4e-6eac-47c4-8ac2-c1f435364710/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7fc6d9872510>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
-    "lastUpdated": "2026-06-13T22:21:12.759595"
+    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/69b84a4e-6eac-47c4-8ac2-c1f435364710/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7f6bbd85c690>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
+    "lastUpdated": "2026-06-14T19:37:15.942137"
   },
   {
     "id": "c09add73-a01e-4bde-b767-60149a339b32",
@@ -704,7 +704,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3319/conversions/partir-un-jour_poster-poster_large.jpg",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-06-14T17:55:50.000128"
   },
   {
@@ -719,7 +719,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3340/conversions/coutures_poster-poster_large.jpg",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-06-14T17:55:50.226376"
   },
   {
@@ -734,7 +734,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3173/conversions/ecrire-la-vie-annie-ernaux-racontee-par-des-lyceennes-et-des-lyceens_poster-poster_large.jpg",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-06-14T17:55:50.456911"
   },
   {
@@ -749,7 +749,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3155/conversions/calle-malaga_poster-poster_large.jpg",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-06-14T17:55:50.690062"
   },
   {
@@ -764,7 +764,7 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3368/conversions/s83OrJh13NWNlMVJ3UuoS6OtZSFIjf-metaVG95NV9QYXlvZmZfUG9zdGVyXzE0NDB4MjA1N3B4X0ZJLmpwZw==--poster_large.jpg",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-06-14T17:55:50.919875"
   },
   {
@@ -779,7 +779,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3323/conversions/disclosure-day_poster-poster_large.jpg",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-06-14T17:55:51.144476"
   },
   {
@@ -794,7 +794,7 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3345/conversions/toy-story-5_poster-poster_large.jpg",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-06-14T17:55:51.603333"
   },
   {
@@ -809,7 +809,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3083/conversions/michael_poster-poster_large.jpg",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-06-14T17:55:51.840688"
   },
   {
@@ -857,50 +857,50 @@
   {
     "id": "ea4e5ae7-c49e-4118-b6f0-2db1c6f1395a",
     "status": "error",
-    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/ea4e5ae7-c49e-4118-b6f0-2db1c6f1395a/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7fc6d987d690>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
-    "lastUpdated": "2026-06-13T22:07:37.456703"
+    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/ea4e5ae7-c49e-4118-b6f0-2db1c6f1395a/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7f6bbd8559d0>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
+    "lastUpdated": "2026-06-14T19:23:37.647512"
   },
   {
     "id": "d5bf2142-85cb-4090-bfbc-70be34a682e8",
     "status": "error",
-    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/d5bf2142-85cb-4090-bfbc-70be34a682e8/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7fc6d9871790>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
-    "lastUpdated": "2026-06-13T22:09:53.354601"
+    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/d5bf2142-85cb-4090-bfbc-70be34a682e8/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7f6bbd85cf90>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
+    "lastUpdated": "2026-06-14T19:25:53.467770"
   },
   {
     "id": "bc7715d4-17cb-4691-90c1-99821f81d4e0",
     "status": "error",
-    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/bc7715d4-17cb-4691-90c1-99821f81d4e0/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7fc6d9867dd0>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
-    "lastUpdated": "2026-06-13T22:12:09.004935"
+    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/bc7715d4-17cb-4691-90c1-99821f81d4e0/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7f6bbd855890>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
+    "lastUpdated": "2026-06-14T19:28:09.009765"
   },
   {
     "id": "68d5afe6-c655-494a-a4c4-a74911f95a65",
     "status": "error",
-    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/68d5afe6-c655-494a-a4c4-a74911f95a65/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7fc6d9864710>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
-    "lastUpdated": "2026-06-13T22:14:25.302449"
+    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/68d5afe6-c655-494a-a4c4-a74911f95a65/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7f6bbd85c590>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
+    "lastUpdated": "2026-06-14T19:30:28.458744"
   },
   {
     "id": "f2f8c6d5-915d-4d3f-a6c7-a68bc7fb968e",
     "status": "error",
-    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/f2f8c6d5-915d-4d3f-a6c7-a68bc7fb968e/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7fc6d9865910>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
-    "lastUpdated": "2026-06-13T22:16:41.285873"
+    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/f2f8c6d5-915d-4d3f-a6c7-a68bc7fb968e/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7f6bbd8683d0>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
+    "lastUpdated": "2026-06-14T19:32:44.336946"
   },
   {
     "id": "d5fce4cf-3da9-4d93-aaba-1605f3c5eb86",
     "status": "error",
-    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/d5fce4cf-3da9-4d93-aaba-1605f3c5eb86/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7fc6d9870c10>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
-    "lastUpdated": "2026-06-13T22:18:57.123673"
+    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/d5fce4cf-3da9-4d93-aaba-1605f3c5eb86/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7f6bbd85fe90>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
+    "lastUpdated": "2026-06-14T19:35:00.367452"
   },
   {
     "id": "48609585-e3cd-47f3-a721-5f56a214a5df",
     "status": "error",
-    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/48609585-e3cd-47f3-a721-5f56a214a5df/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7fc6d98254d0>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
-    "lastUpdated": "2026-06-13T22:23:28.447302"
+    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/48609585-e3cd-47f3-a721-5f56a214a5df/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7f6bbd856c10>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
+    "lastUpdated": "2026-06-14T19:39:31.350213"
   },
   {
     "id": "d8674a51-952f-40a6-ab86-9159a54f06a9",
     "status": "error",
-    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/d8674a51-952f-40a6-ab86-9159a54f06a9/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7fc6d9870e50>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
-    "lastUpdated": "2026-06-13T22:25:43.989641"
+    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/d8674a51-952f-40a6-ab86-9159a54f06a9/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7f6bbd992790>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
+    "lastUpdated": "2026-06-14T19:41:47.468862"
   },
   {
     "id": "796f36e2-b895-42c4-bfd3-2f96b7730efb",
@@ -914,7 +914,7 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3345/conversions/toy-story-5_poster-poster_large.jpg",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-06-14T17:55:52.079094"
   },
   {
@@ -929,19 +929,19 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3376/conversions/la-petite-derniere_poster-poster_large.jpg",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-06-14T17:55:52.311784"
   },
   {
     "id": "796f36e2-b895-42c4-bfd3-2f96b7730efb",
     "status": "error",
-    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/796f36e2-b895-42c4-bfd3-2f96b7730efb/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7fc6d98654d0>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
-    "lastUpdated": "2026-06-13T22:27:59.508661"
+    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/796f36e2-b895-42c4-bfd3-2f96b7730efb/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7f6bbd856cd0>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
+    "lastUpdated": "2026-06-14T19:44:03.143385"
   },
   {
     "id": "03a75934-995c-4ec8-bb09-635fd25527e3",
     "status": "error",
-    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/03a75934-995c-4ec8-bb09-635fd25527e3/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7fc6d998fed0>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
-    "lastUpdated": "2026-06-13T22:30:15.689233"
+    "error": "HTTPSConnectionPool(host='myyri.kinola.ee', port=443): Max retries exceeded with url: /api/plugin/v1/events/03a75934-995c-4ec8-bb09-635fd25527e3/fi (Caused by ConnectTimeoutError(<HTTPSConnection(host='myyri.kinola.ee', port=443) at 0x7f6bbd85dc90>, 'Connection to myyri.kinola.ee timed out. (connect timeout=15)'))",
+    "lastUpdated": "2026-06-14T19:46:19.260710"
   }
 ]
