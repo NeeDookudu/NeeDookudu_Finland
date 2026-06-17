@@ -578,8 +578,8 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3074/conversions/primavera_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:52.664006"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:31.238228"
   },
   {
     "id": "69b84a4e-6eac-47c4-8ac2-c1f435364710",
@@ -794,8 +794,8 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3345/conversions/toy-story-5_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:52.912460"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:31.495169"
   },
   {
     "id": "d8674a51-952f-40a6-ab86-9159a54f06a9",
@@ -804,13 +804,13 @@
     "time": "15:15",
     "price": 12.5,
     "sold": 0,
-    "free": 184,
-    "total": 184,
+    "free": 180,
+    "total": 180,
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3083/conversions/michael_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:53.147551"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:31.759570"
   },
   {
     "id": "c09add73-a01e-4bde-b767-60149a339b32",
@@ -914,8 +914,8 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3345/conversions/toy-story-5_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:53.616130"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:32.265783"
   },
   {
     "id": "03a75934-995c-4ec8-bb09-635fd25527e3",
@@ -929,8 +929,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3376/conversions/la-petite-derniere_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:56.201785"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:35.117771"
   },
   {
     "id": "796f36e2-b895-42c4-bfd3-2f96b7730efb",
@@ -956,8 +956,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3340/conversions/coutures_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:53.380222"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:32.010480"
   },
   {
     "id": "40f14557-8c09-42b5-8794-fb7f28580fae",
@@ -971,8 +971,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3268/conversions/le-fabuleux-destin-damelie-poulain_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:53.850980"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:32.536608"
   },
   {
     "id": "de902d3b-488a-4a69-abb2-f9511832cd46",
@@ -986,8 +986,8 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3368/conversions/s83OrJh13NWNlMVJ3UuoS6OtZSFIjf-metaVG95NV9QYXlvZmZfUG9zdGVyXzE0NDB4MjA1N3B4X0ZJLmpwZw==--poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:54.081740"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:32.807003"
   },
   {
     "id": "910becf9-a452-4aab-8a96-4cd297e8b84d",
@@ -1001,8 +1001,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/2644/conversions/bolero_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:54.319586"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:33.065561"
   },
   {
     "id": "065dd265-305f-4ace-936e-72a68a9ccb0e",
@@ -1016,8 +1016,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3323/conversions/disclosure-day_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:54.553961"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:33.322013"
   },
   {
     "id": "46f5b654-f440-4f08-9229-f1cdc08a3439",
@@ -1031,8 +1031,8 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3345/conversions/toy-story-5_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:54.790198"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:33.568477"
   },
   {
     "id": "43cd7aa9-39b2-45a1-bfad-d55bd1255794",
@@ -1046,8 +1046,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/2870/conversions/epic-elvis-presley-in-concert_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:55.018098"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:33.815494"
   },
   {
     "id": "6fe0369b-2d84-4515-8137-7bdb0952707f",
@@ -1061,8 +1061,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3268/conversions/le-fabuleux-destin-damelie-poulain_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:55.258114"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:34.066681"
   },
   {
     "id": "056bcaab-f375-46eb-9663-a36b69bca212",
@@ -1076,8 +1076,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3074/conversions/primavera_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:55.495093"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:34.325493"
   },
   {
     "id": "63527784-b978-4516-8c91-35fe3fb98ec9",
@@ -1091,8 +1091,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3083/conversions/michael_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:55.729551"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:34.595560"
   },
   {
     "id": "9e30c01b-49a3-4b1b-9d10-9306f7b9e6c1",
@@ -1106,8 +1106,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3323/conversions/disclosure-day_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-06-17T08:56:55.959772"
+    "status": "ok",
+    "lastUpdated": "2026-06-17T16:35:34.858994"
   },
   {
     "id": "b14d9473-371c-4360-adea-7ff7573e079d",
