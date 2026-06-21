@@ -914,7 +914,7 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3345/conversions/toy-story-5_poster-poster_large.jpg",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-06-21T13:21:58.626583"
   },
   {
@@ -930,7 +930,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3376/conversions/la-petite-derniere_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-06-21T13:22:00.984165"
+    "lastUpdated": "2026-06-21T15:22:33.715803"
   },
   {
     "id": "796f36e2-b895-42c4-bfd3-2f96b7730efb",
@@ -971,7 +971,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3268/conversions/le-fabuleux-destin-damelie-poulain_poster-poster_large.jpg",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-06-21T13:21:58.849831"
   },
   {
@@ -987,7 +987,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3368/conversions/s83OrJh13NWNlMVJ3UuoS6OtZSFIjf-metaVG95NV9QYXlvZmZfUG9zdGVyXzE0NDB4MjA1N3B4X0ZJLmpwZw==--poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-06-21T13:21:59.057536"
+    "lastUpdated": "2026-06-21T15:22:31.845750"
   },
   {
     "id": "910becf9-a452-4aab-8a96-4cd297e8b84d",
@@ -1002,7 +1002,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/2644/conversions/bolero_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-06-21T13:21:59.265647"
+    "lastUpdated": "2026-06-21T15:22:32.051683"
   },
   {
     "id": "065dd265-305f-4ace-936e-72a68a9ccb0e",
@@ -1017,7 +1017,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3323/conversions/disclosure-day_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-06-21T13:21:59.472651"
+    "lastUpdated": "2026-06-21T15:22:32.264334"
   },
   {
     "id": "46f5b654-f440-4f08-9229-f1cdc08a3439",
@@ -1032,7 +1032,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3345/conversions/toy-story-5_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-06-21T13:21:59.682911"
+    "lastUpdated": "2026-06-21T15:22:32.468841"
   },
   {
     "id": "43cd7aa9-39b2-45a1-bfad-d55bd1255794",
@@ -1047,7 +1047,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/2870/conversions/epic-elvis-presley-in-concert_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-06-21T13:21:59.891874"
+    "lastUpdated": "2026-06-21T15:22:32.675643"
   },
   {
     "id": "6fe0369b-2d84-4515-8137-7bdb0952707f",
@@ -1062,7 +1062,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3268/conversions/le-fabuleux-destin-damelie-poulain_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-06-21T13:22:00.097769"
+    "lastUpdated": "2026-06-21T15:22:32.881850"
   },
   {
     "id": "056bcaab-f375-46eb-9663-a36b69bca212",
@@ -1077,7 +1077,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3074/conversions/primavera_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-06-21T13:22:00.325638"
+    "lastUpdated": "2026-06-21T15:22:33.089001"
   },
   {
     "id": "63527784-b978-4516-8c91-35fe3fb98ec9",
@@ -1092,7 +1092,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3083/conversions/michael_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-06-21T13:22:00.544011"
+    "lastUpdated": "2026-06-21T15:22:33.295691"
   },
   {
     "id": "9e30c01b-49a3-4b1b-9d10-9306f7b9e6c1",
@@ -1107,7 +1107,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3323/conversions/disclosure-day_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-06-21T13:22:00.764703"
+    "lastUpdated": "2026-06-21T15:22:33.502296"
   },
   {
     "id": "b14d9473-371c-4360-adea-7ff7573e079d",
@@ -1188,7 +1188,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3383/conversions/minions-monsters_poster-poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-06-21T13:22:01.202089"
+    "lastUpdated": "2026-06-21T15:22:33.934557"
   },
   {
     "id": "c92a02c3-5aad-496f-ba42-e342e18519da",
@@ -1203,7 +1203,7 @@
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3267/conversions/AP70XZPDqqb9OLx1RJKuA9NL7rI8dm-metaTGFtbWFzZXRzaXZhdF9Qb3N0ZXJfNzB4MTAwX0ZJLmpwZw==--poster_large.jpg",
     "status": "ok",
-    "lastUpdated": "2026-06-21T13:22:01.413055"
+    "lastUpdated": "2026-06-21T15:22:34.146580"
   },
   {
     "id": "b4d29b71-df5b-4998-8e59-7d3c9ce3b141",
