@@ -276,13 +276,13 @@
     "time": "11:00",
     "price": 11,
     "sold": 0,
-    "free": 186,
-    "total": 186,
+    "free": 188,
+    "total": 188,
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3383/conversions/minions-monsters_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-07-07T17:31:23.923327"
+    "status": "ok",
+    "lastUpdated": "2026-07-07T21:18:19.944460"
   },
   {
     "id": "b9561d56-80ac-4fb4-a594-b7785ad723b4",
@@ -296,8 +296,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3074/conversions/primavera_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-07-07T17:31:24.125324"
+    "status": "ok",
+    "lastUpdated": "2026-07-07T21:18:20.108779"
   },
   {
     "id": "683f64be-8bcd-4f37-a52f-4dcae71f225b",
@@ -311,8 +311,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3376/conversions/la-petite-derniere_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-07-07T17:31:24.323820"
+    "status": "ok",
+    "lastUpdated": "2026-07-07T21:18:20.276441"
   },
   {
     "id": "0ec0010f-7d15-414b-97e8-9370ef23e35f",
@@ -326,8 +326,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3022/conversions/father-mother-sister-brother_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-07-07T17:31:24.530163"
+    "status": "ok",
+    "lastUpdated": "2026-07-07T21:18:20.459820"
   },
   {
     "id": "7ec30941-1a52-4fa4-a598-b6e489404e0e",
@@ -341,8 +341,8 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3409/conversions/3auGeoWvsEjoHYJEGnNpX2L8sQCkS1-metaVVBJXzEwODA4X01TM19JTkNJTkVNQV9QT1NURVJfSEVOUllfQkFOQU5BX0VMT0tVVkFURUFUVEVSRUlTU0FfMV83X0ZJX0ZJLmpwZw==--poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-07-07T17:31:24.729022"
+    "status": "ok",
+    "lastUpdated": "2026-07-07T21:18:20.626292"
   },
   {
     "id": "5f107e37-fe6c-4e33-9785-4dd2760a962a",
@@ -356,8 +356,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3442/conversions/kneecap_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-07-07T17:31:24.930231"
+    "status": "ok",
+    "lastUpdated": "2026-07-07T21:18:20.790529"
   },
   {
     "id": "13f769bf-3d4f-486b-8def-bbc81d5dd942",
@@ -371,8 +371,8 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3421/conversions/vaiana-liveaction_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-07-07T17:31:25.135642"
+    "status": "ok",
+    "lastUpdated": "2026-07-07T21:18:20.957595"
   },
   {
     "id": "2cfb6c4a-a820-471b-a7d8-260d074bbe31",
@@ -386,8 +386,8 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3431/conversions/blue-heron_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-07-07T17:31:25.335697"
+    "status": "ok",
+    "lastUpdated": "2026-07-07T21:18:21.123713"
   },
   {
     "id": "d35e8f25-c9a5-499e-ab58-e94602c676c0",
@@ -401,8 +401,8 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://myyri.kinola.ee/storage/myyri.kinola.ee/3340/conversions/coutures_poster-poster_large.jpg",
-    "status": "missing",
-    "lastUpdated": "2026-07-07T17:31:25.531528"
+    "status": "ok",
+    "lastUpdated": "2026-07-07T21:18:21.300654"
   },
   {
     "id": "e559d4ce-858c-4f8a-8108-6617c30ef46b",
