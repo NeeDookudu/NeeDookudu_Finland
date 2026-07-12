@@ -387,7 +387,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3431/blue-heron_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-12T13:06:50.598907"
+    "lastUpdated": "2026-07-12T14:39:38.621020"
   },
   {
     "id": "d35e8f25-c9a5-499e-ab58-e94602c676c0",
@@ -402,7 +402,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3340/coutures_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-12T13:06:51.779840"
+    "lastUpdated": "2026-07-12T14:39:39.917631"
   },
   {
     "id": "e559d4ce-858c-4f8a-8108-6617c30ef46b",
@@ -560,7 +560,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2451/vie-privee_poster.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-07-12T13:06:50.420446"
   },
   {
@@ -576,7 +576,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3383/minions-monsters_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-12T13:06:50.765664"
+    "lastUpdated": "2026-07-12T14:39:38.804520"
   },
   {
     "id": "f0dc1332-2df4-484a-994d-4d74a06002bb",
@@ -591,7 +591,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3155/calle-malaga_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-12T13:06:50.934289"
+    "lastUpdated": "2026-07-12T14:39:38.994058"
   },
   {
     "id": "891b395f-8862-4d0d-94ac-df32359a0dbb",
@@ -606,7 +606,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2920/project-hail-mary_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-12T13:06:51.105878"
+    "lastUpdated": "2026-07-12T14:39:39.178871"
   },
   {
     "id": "ff1e4555-f395-4f1f-9754-33763440ac29",
@@ -621,7 +621,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3457/wDd7mVOt5YQ6hjMjD3osKS37iH637g-metaVmFpYW5hTEFfUGF5b2ZmX1Bvc3Rlcl8xNDQweDIwNTdweF9GSS5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-12T13:06:51.275364"
+    "lastUpdated": "2026-07-12T14:39:39.362684"
   },
   {
     "id": "fba62f80-4b87-451e-bed9-f1a529c2efb9",
@@ -636,7 +636,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2451/vie-privee_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-12T13:06:51.443709"
+    "lastUpdated": "2026-07-12T14:39:39.545781"
   },
   {
     "id": "ef10b909-1c55-4cff-a4e6-0dd53d59542a",
@@ -651,7 +651,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3442/kneecap_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-12T13:06:51.611411"
+    "lastUpdated": "2026-07-12T14:39:39.734186"
   },
   {
     "id": "b3f0eb24-5e39-41a9-94d7-84de0297b436",
@@ -666,7 +666,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3345/toy-story-5_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-12T13:06:51.949512"
+    "lastUpdated": "2026-07-12T14:39:40.095412"
   },
   {
     "id": "07976e7f-8a5e-460d-8597-ec5d69983fde",
@@ -681,7 +681,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2931/the-testament-of-ann-lee_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-12T13:06:52.117557"
+    "lastUpdated": "2026-07-12T14:39:40.269073"
   },
   {
     "id": "297dfe22-5055-4d9a-9256-a242a73edf29",
@@ -696,6 +696,6 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3399/the-odyssey_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-12T13:06:52.282911"
+    "lastUpdated": "2026-07-12T14:39:40.459888"
   }
 ]
