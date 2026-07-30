@@ -1010,7 +1010,7 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2687/hamnet_poster.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-07-30T10:18:55.574789"
   },
   {
@@ -1206,7 +1206,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/1876/la-pie-voleuse_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:55.797664"
+    "lastUpdated": "2026-07-30T12:10:37.690958"
   },
   {
     "id": "956fbd5b-0e36-40fc-897a-fe275829ddca",
@@ -1221,7 +1221,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3399/the-odyssey_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:56.024443"
+    "lastUpdated": "2026-07-30T12:10:37.875326"
   },
   {
     "id": "c16ea011-fdba-4f76-af3e-32abcb8377ff",
@@ -1236,7 +1236,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3345/toy-story-5_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:56.696764"
+    "lastUpdated": "2026-07-30T12:10:38.413086"
   },
   {
     "id": "68c30622-e1ed-4051-abc8-d3e52edc2b6a",
@@ -1251,7 +1251,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3383/minions-monsters_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:57.373059"
+    "lastUpdated": "2026-07-30T12:10:38.959653"
   },
   {
     "id": "2b7f4bd6-e32e-4333-a6d4-257449bd696f",
@@ -1266,7 +1266,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3460/don-quijote-barcelonassa_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:57.829346"
+    "lastUpdated": "2026-07-30T12:10:39.331451"
   },
   {
     "id": "6e2f627f-f917-4256-ac7a-8cd1a7fd1718",
@@ -1281,7 +1281,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3155/calle-malaga_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:56.247680"
+    "lastUpdated": "2026-07-30T12:10:38.055611"
   },
   {
     "id": "19866304-e335-472b-8c87-3ba3a327cf93",
@@ -1296,7 +1296,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3481/spider-man-brand-new-day_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:56.471952"
+    "lastUpdated": "2026-07-30T12:10:38.234541"
   },
   {
     "id": "c70cec3b-7450-456b-a10e-2e77203bcb10",
@@ -1311,7 +1311,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3470/la-femme-la-plus-riche-du-monde_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:56.920738"
+    "lastUpdated": "2026-07-30T12:10:38.595170"
   },
   {
     "id": "9d3aa791-f952-4fd8-aa23-315db28829d7",
@@ -1326,7 +1326,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3399/the-odyssey_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:57.148932"
+    "lastUpdated": "2026-07-30T12:10:38.777062"
   },
   {
     "id": "c1e43db0-9989-4eb1-b915-3e5d11cc91de",
@@ -1341,7 +1341,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3340/coutures_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:57.602657"
+    "lastUpdated": "2026-07-30T12:10:39.148723"
   },
   {
     "id": "89507053-1ba3-4034-9e74-97a9b3ce7f58",
@@ -1356,7 +1356,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3399/the-odyssey_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:58.052670"
+    "lastUpdated": "2026-07-30T12:10:39.512366"
   },
   {
     "id": "ed1c6547-c407-4564-aeca-c51319fbaa03",
@@ -1371,7 +1371,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3022/father-mother-sister-brother_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:58.278027"
+    "lastUpdated": "2026-07-30T12:10:39.687466"
   },
   {
     "id": "2668ee98-4189-4e16-9f2f-6b97af13a778",
@@ -1386,7 +1386,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3340/coutures_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:58.504117"
+    "lastUpdated": "2026-07-30T12:10:39.868370"
   },
   {
     "id": "f87f0bce-4566-488b-a1c5-07d5f8e14dab",
@@ -1401,7 +1401,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/1876/la-pie-voleuse_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:58.728044"
+    "lastUpdated": "2026-07-30T12:10:40.046799"
   },
   {
     "id": "7a9b44cb-4546-406e-9334-f7baf3204a1e",
@@ -1416,7 +1416,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3470/la-femme-la-plus-riche-du-monde_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:58.951604"
+    "lastUpdated": "2026-07-30T12:10:40.228405"
   },
   {
     "id": "858f8be7-7168-4941-aa35-4fc01800a11d",
@@ -1431,7 +1431,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3481/spider-man-brand-new-day_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:59.175250"
+    "lastUpdated": "2026-07-30T12:10:40.406443"
   },
   {
     "id": "72b4586c-7e0c-414b-a5e4-b2742721ad4d",
@@ -1446,7 +1446,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2687/hamnet_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:59.400596"
+    "lastUpdated": "2026-07-30T12:10:40.582982"
   },
   {
     "id": "c5d7445f-8470-4492-8c5f-c19a305e6175",
@@ -1461,7 +1461,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3496/AWRcdnRda2Pa7SvyarqsG6IBaO2HZf-metaRG9uIFF1aWpvdGUgQmFyY2Vsb25hc3NhIGp1bGlzdGUuanBn-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:59.623153"
+    "lastUpdated": "2026-07-30T12:10:40.758358"
   },
   {
     "id": "2da621eb-8894-4775-9bbd-01f889bbaa9b",
@@ -1476,7 +1476,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3399/the-odyssey_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:18:59.849259"
+    "lastUpdated": "2026-07-30T12:10:40.935792"
   },
   {
     "id": "eac393bc-01d7-4148-a23d-d13056412286",
@@ -1491,7 +1491,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3484/paw-patrol-the-dino-movie_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:19:00.307689"
+    "lastUpdated": "2026-07-30T12:10:41.288347"
   },
   {
     "id": "0a561755-18e5-4dbd-b955-2bdf34ea6b18",
@@ -1506,7 +1506,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3499/Gf5RT91hZJM4nB3kT86I10DRW16lod-metaUFAzX0lOVExfMTk4NHgyODM1X09ubGluZV9EaWdpdGFsX0tleUFydF9QcmVoaXN0b3JpY19GSS5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:19:00.765146"
+    "lastUpdated": "2026-07-30T12:10:41.643559"
   },
   {
     "id": "f448094a-ba6c-46b0-9c0a-71a77019b3bf",
@@ -1521,7 +1521,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3481/spider-man-brand-new-day_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:19:00.074119"
+    "lastUpdated": "2026-07-30T12:10:41.111782"
   },
   {
     "id": "a36b9fcf-15b2-42e3-a946-6d18dbd5871b",
@@ -1536,6 +1536,6 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3503/laula-minulle-arja_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-07-30T10:19:00.535167"
+    "lastUpdated": "2026-07-30T12:10:41.465163"
   }
 ]
