@@ -267,7 +267,7 @@
     "occupancy": 5.24,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3503/laula-minulle-arja_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:23.862608"
+    "lastUpdated": "2026-08-10T18:48:34.918762"
   },
   {
     "id": "0a561755-18e5-4dbd-b955-2bdf34ea6b18",
@@ -312,7 +312,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3499/Gf5RT91hZJM4nB3kT86I10DRW16lod-metaUFAzX0lOVExfMTk4NHgyODM1X09ubGluZV9EaWdpdGFsX0tleUFydF9QcmVoaXN0b3JpY19GSS5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:25.758168"
+    "lastUpdated": "2026-08-10T18:48:36.517070"
   },
   {
     "id": "0a561755-18e5-4dbd-b955-2bdf34ea6b18",
@@ -327,7 +327,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3484/paw-patrol-the-dino-movie_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:24.915821"
+    "lastUpdated": "2026-08-10T18:48:35.800648"
   },
   {
     "id": "94027384-0248-4106-a549-cb68bbe7bd47",
@@ -417,7 +417,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3496/AWRcdnRda2Pa7SvyarqsG6IBaO2HZf-metaRG9uIFF1aWpvdGUgQmFyY2Vsb25hc3NhIGp1bGlzdGUuanBn-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:22.752619"
+    "lastUpdated": "2026-08-10T18:48:34.028543"
   },
   {
     "id": "567ca5f8-3e2e-4888-a5c6-1dbf30ee1a75",
@@ -432,7 +432,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2920/project-hail-mary_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:22.956359"
+    "lastUpdated": "2026-08-10T18:48:34.205072"
   },
   {
     "id": "d6aacc4a-d8e4-4b2a-8abc-0d5074208900",
@@ -447,7 +447,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2910/xEs53bHpu1gUiYBOg0ZuHmJqBGdI1r-metaaXNhbnBhaXZhXzcwXzEwMC5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:23.165251"
+    "lastUpdated": "2026-08-10T18:48:34.379394"
   },
   {
     "id": "516936c2-5b6d-4084-972f-0bf729e97324",
@@ -462,7 +462,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3470/la-femme-la-plus-riche-du-monde_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:23.374128"
+    "lastUpdated": "2026-08-10T18:48:34.569030"
   },
   {
     "id": "e008d933-9284-4499-8e8b-8f723274fbfc",
@@ -471,13 +471,13 @@
     "time": "16:00",
     "price": 12.5,
     "sold": 0,
-    "free": 188,
-    "total": 188,
+    "free": 183,
+    "total": 183,
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3481/spider-man-brand-new-day_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:23.654491"
+    "lastUpdated": "2026-08-10T18:48:34.739658"
   },
   {
     "id": "06843cd9-f0af-45d1-936b-cbcc6ea3c1d7",
@@ -492,7 +492,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3319/partir-un-jour_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:24.073504"
+    "lastUpdated": "2026-08-10T18:48:35.094332"
   },
   {
     "id": "ce3c421e-b330-4b40-948d-c0942f5501d4",
@@ -507,7 +507,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3399/the-odyssey_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:24.281628"
+    "lastUpdated": "2026-08-10T18:48:35.268478"
   },
   {
     "id": "32788048-5a1a-4183-ac3f-d46c5c0e927a",
@@ -515,14 +515,14 @@
     "date": "2026-08-14",
     "time": "16:30",
     "price": 15,
-    "sold": 62,
-    "free": 129,
+    "sold": 65,
+    "free": 126,
     "total": 191,
-    "gross": 930,
-    "occupancy": 32.46,
+    "gross": 975,
+    "occupancy": 34.03,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3577/9vZxiylRFa4mgGtjHMzywANx99z30a-metaSU1HXzcxMTEuanBlZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:24.701497"
+    "lastUpdated": "2026-08-10T18:48:35.630762"
   },
   {
     "id": "1ba08bc2-28fd-40c0-abe8-a43d43c59c53",
@@ -537,7 +537,7 @@
     "occupancy": 7.85,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3577/9vZxiylRFa4mgGtjHMzywANx99z30a-metaSU1HXzcxMTEuanBlZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:25.547191"
+    "lastUpdated": "2026-08-10T18:48:36.341592"
   },
   {
     "id": "a5827b6f-23fc-4f68-a17e-21a37d18d0cd",
@@ -552,7 +552,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3503/laula-minulle-arja_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:25.972767"
+    "lastUpdated": "2026-08-10T18:48:36.691269"
   },
   {
     "id": "b80924e3-f0df-4036-bb2e-c331ba260a2a",
@@ -560,14 +560,14 @@
     "date": "2026-08-17",
     "time": "15:30",
     "price": 16.9,
-    "sold": 52,
-    "free": 139,
+    "sold": 46,
+    "free": 145,
     "total": 191,
-    "gross": 878.8,
-    "occupancy": 27.23,
+    "gross": 777.4,
+    "occupancy": 24.08,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3579/LEuNEPvroj6Lymr2RVwQFYyQP0OWWm-metaR2F1dGhhbGkgVkVSVElDQUwuanBn-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:26.409827"
+    "lastUpdated": "2026-08-10T18:48:37.047572"
   },
   {
     "id": "cf66426e-b923-429a-bbf8-59bd508412a0",
@@ -582,7 +582,7 @@
     "occupancy": 3.66,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3579/LEuNEPvroj6Lymr2RVwQFYyQP0OWWm-metaR2F1dGhhbGkgVkVSVElDQUwuanBn-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:28.291981"
+    "lastUpdated": "2026-08-10T18:48:38.662052"
   },
   {
     "id": "dd3d8535-54f1-4438-a3aa-f81b425d3d4d",
@@ -590,14 +590,14 @@
     "date": "2026-09-04",
     "time": "16:00",
     "price": 16.5,
-    "sold": 13,
-    "free": 178,
+    "sold": 17,
+    "free": 174,
     "total": 191,
-    "gross": 214.5,
-    "occupancy": 6.81,
+    "gross": 280.5,
+    "occupancy": 8.9,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3582/Unpn3opwKl7tExv0IMOm7gT5iGRbaH-metaMS5wbmc=-.png?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:28.502852"
+    "lastUpdated": "2026-08-10T18:48:38.844162"
   },
   {
     "id": "18e16b18-1b33-4143-9722-7fe23d35ea09",
@@ -708,7 +708,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3481/spider-man-brand-new-day_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:24.483228"
+    "lastUpdated": "2026-08-10T18:48:35.442600"
   },
   {
     "id": "94d3e97a-d16d-48b1-a593-3eea24878f28",
@@ -723,7 +723,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3562/the-invite_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:25.125840"
+    "lastUpdated": "2026-08-10T18:48:35.974038"
   },
   {
     "id": "15f8c1e0-5ee9-4644-841e-cc21d1378584",
@@ -738,7 +738,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3399/the-odyssey_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:25.342455"
+    "lastUpdated": "2026-08-10T18:48:36.150827"
   },
   {
     "id": "181df367-f015-493e-aa9a-74967b5d499a",
@@ -753,7 +753,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3481/spider-man-brand-new-day_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:26.196280"
+    "lastUpdated": "2026-08-10T18:48:36.865339"
   },
   {
     "id": "51192510-5a3a-439e-81f2-7aa4beff39ed",
@@ -768,7 +768,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3470/la-femme-la-plus-riche-du-monde_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:26.622333"
+    "lastUpdated": "2026-08-10T18:48:37.220283"
   },
   {
     "id": "f803064e-b533-473d-8ad8-e82340d6451e",
@@ -783,7 +783,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3503/laula-minulle-arja_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:26.839760"
+    "lastUpdated": "2026-08-10T18:48:37.396124"
   },
   {
     "id": "356667af-913c-43f6-bc62-f7b0f094be9c",
@@ -798,7 +798,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3481/spider-man-brand-new-day_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:27.044620"
+    "lastUpdated": "2026-08-10T18:48:37.578649"
   },
   {
     "id": "41f08610-75d7-443f-a4f9-a98cea449083",
@@ -813,7 +813,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3399/the-odyssey_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:27.251333"
+    "lastUpdated": "2026-08-10T18:48:37.766985"
   },
   {
     "id": "11173c27-93be-4ea3-839c-964c0a3ea7f6",
@@ -828,7 +828,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3562/the-invite_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:27.465661"
+    "lastUpdated": "2026-08-10T18:48:37.946901"
   },
   {
     "id": "2947dc6d-1335-41bc-a5f9-845b56367295",
@@ -843,7 +843,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3503/laula-minulle-arja_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:27.669915"
+    "lastUpdated": "2026-08-10T18:48:38.123124"
   },
   {
     "id": "65f3bf1c-1361-443e-a09c-3f86a8f3f410",
@@ -858,7 +858,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2872/zuopiezi-nuhai_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:27.883296"
+    "lastUpdated": "2026-08-10T18:48:38.307910"
   },
   {
     "id": "18ae6a35-940b-413d-a582-d9ec5f306d1d",
@@ -873,6 +873,6 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3481/spider-man-brand-new-day_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-10T17:46:28.087450"
+    "lastUpdated": "2026-08-10T18:48:38.483992"
   }
 ]
