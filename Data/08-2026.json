@@ -582,7 +582,7 @@
     "occupancy": 35.6,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3579/LEuNEPvroj6Lymr2RVwQFYyQP0OWWm-metaR2F1dGhhbGkgVkVSVElDQUwuanBn-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:32:59.201945"
+    "lastUpdated": "2026-08-21T17:22:29.317757"
   },
   {
     "id": "dd3d8535-54f1-4438-a3aa-f81b425d3d4d",
@@ -597,7 +597,7 @@
     "occupancy": 39.27,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3582/Unpn3opwKl7tExv0IMOm7gT5iGRbaH-metaMS5wbmc=-.png?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:33:02.018530"
+    "lastUpdated": "2026-08-21T17:22:32.530808"
   },
   {
     "id": "18e16b18-1b33-4143-9722-7fe23d35ea09",
@@ -902,7 +902,7 @@
     "gross": 1622.4,
     "occupancy": 50.26,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3579/LEuNEPvroj6Lymr2RVwQFYyQP0OWWm-metaR2F1dGhhbGkgVkVSVElDQUwuanBn-.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-08-21T16:32:58.165870"
   },
   {
@@ -911,14 +911,14 @@
     "date": "2026-08-24",
     "time": "15:30",
     "price": 16.9,
-    "sold": 36,
-    "free": 155,
+    "sold": 35,
+    "free": 156,
     "total": 191,
-    "gross": 608.4,
-    "occupancy": 18.85,
+    "gross": 591.5,
+    "occupancy": 18.32,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3579/LEuNEPvroj6Lymr2RVwQFYyQP0OWWm-metaR2F1dGhhbGkgVkVSVElDQUwuanBn-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:32:59.998021"
+    "lastUpdated": "2026-08-21T17:22:30.296461"
   },
   {
     "id": "519cf868-6e08-4d32-aec7-9fe5f897ec5a",
@@ -933,7 +933,7 @@
     "occupancy": 0.0,
     "poster": "",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:33:02.215973"
+    "lastUpdated": "2026-08-21T17:22:32.970304"
   },
   {
     "id": "7ac68e9a-be51-423f-bef1-161ac1ff6936",
@@ -948,7 +948,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3544/paivien-lumo_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:33:01.800207"
+    "lastUpdated": "2026-08-21T17:22:32.293719"
   },
   {
     "id": "6751c8df-9798-415f-9109-acdf408c8822",
@@ -963,7 +963,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3484/paw-patrol-the-dino-movie_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:32:58.362167"
+    "lastUpdated": "2026-08-21T17:22:28.385660"
   },
   {
     "id": "5b31c0c4-9a82-4401-b275-271feafec541",
@@ -978,7 +978,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3562/the-invite_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:32:58.761564"
+    "lastUpdated": "2026-08-21T17:22:28.851132"
   },
   {
     "id": "328db7ec-012a-4b3d-a981-63e36714e0cf",
@@ -993,7 +993,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3484/paw-patrol-the-dino-movie_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:32:59.403737"
+    "lastUpdated": "2026-08-21T17:22:29.539826"
   },
   {
     "id": "0f2d154a-34bf-4436-aaa4-bcfdea4f5fff",
@@ -1008,7 +1008,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3503/laula-minulle-arja_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:32:59.595863"
+    "lastUpdated": "2026-08-21T17:22:29.761507"
   },
   {
     "id": "e81c28c6-cd2f-445b-aeaa-17d797e6e3d0",
@@ -1023,7 +1023,7 @@
     "occupancy": 18.32,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3577/9vZxiylRFa4mgGtjHMzywANx99z30a-metaSU1HXzcxMTEuanBlZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:32:59.796961"
+    "lastUpdated": "2026-08-21T17:22:29.990200"
   },
   {
     "id": "ea8319d6-49ab-4bcf-a43e-6818be3a3abf",
@@ -1038,7 +1038,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3470/la-femme-la-plus-riche-du-monde_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:33:01.389963"
+    "lastUpdated": "2026-08-21T17:22:31.851758"
   },
   {
     "id": "e97363db-a750-4d01-88dc-6af523db6a0f",
@@ -1083,7 +1083,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2409/0hoaq2d8SJ0R3Xmj3Lhmgdvd035aYu-metaSm9raW5pZW1pMi5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:33:01.596024"
+    "lastUpdated": "2026-08-21T17:22:32.072545"
   },
   {
     "id": "93d2a16a-199c-4a2c-8119-5cf525403b2f",
@@ -1113,7 +1113,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3600/spa-weekend_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:32:58.570049"
+    "lastUpdated": "2026-08-21T17:22:28.620725"
   },
   {
     "id": "099840ce-ac16-4a02-9aac-b7c0d56f327e",
@@ -1121,14 +1121,14 @@
     "date": "2026-08-22",
     "time": "17:00",
     "price": 15,
-    "sold": 75,
-    "free": 116,
+    "sold": 77,
+    "free": 114,
     "total": 191,
-    "gross": 1125,
-    "occupancy": 39.27,
+    "gross": 1155,
+    "occupancy": 40.31,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3604/bethlehem-kudumba-unit_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:32:58.993064"
+    "lastUpdated": "2026-08-21T17:22:29.086177"
   },
   {
     "id": "f4a1b5b3-1180-4bd7-ac36-e206abb761c3",
@@ -1143,7 +1143,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3503/laula-minulle-arja_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:33:00.187001"
+    "lastUpdated": "2026-08-21T17:22:30.523620"
   },
   {
     "id": "ecbab7d7-8e53-47b7-925a-86789448523b",
@@ -1158,7 +1158,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3587/kaunarikuume_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:33:00.375667"
+    "lastUpdated": "2026-08-21T17:22:30.743481"
   },
   {
     "id": "4643d7e8-a30d-4c3f-9586-4675d14c3170",
@@ -1188,7 +1188,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3496/AWRcdnRda2Pa7SvyarqsG6IBaO2HZf-metaRG9uIFF1aWpvdGUgQmFyY2Vsb25hc3NhIGp1bGlzdGUuanBn-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:33:00.768897"
+    "lastUpdated": "2026-08-21T17:22:31.192003"
   },
   {
     "id": "f0b0b14e-be69-4f72-b1e7-64fce4b32ba0",
@@ -1203,7 +1203,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3562/the-invite_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:33:00.978617"
+    "lastUpdated": "2026-08-21T17:22:31.410440"
   },
   {
     "id": "8d900ff5-2620-4023-8680-d8c853c7a9c1",
@@ -1218,7 +1218,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3399/the-odyssey_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:33:01.184276"
+    "lastUpdated": "2026-08-21T17:22:31.631642"
   },
   {
     "id": "4643d7e8-a30d-4c3f-9586-4675d14c3170",
@@ -1233,6 +1233,21 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3481/spider-man-brand-new-day_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-21T16:33:00.571025"
+    "lastUpdated": "2026-08-21T17:22:30.965343"
+  },
+  {
+    "id": "95408952-a1f8-465e-98e5-5b9663f9aa36",
+    "movie": "Hetki ennen valoa",
+    "date": "2026-09-10",
+    "time": "11:00",
+    "price": 10,
+    "sold": 0,
+    "free": 186,
+    "total": 186,
+    "gross": 0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-08-21T17:22:32.750126"
   }
 ]
