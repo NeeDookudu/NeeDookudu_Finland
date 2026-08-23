@@ -597,7 +597,7 @@
     "occupancy": 39.27,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3582/Unpn3opwKl7tExv0IMOm7gT5iGRbaH-metaMS5wbmc=-.png?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:40.034871"
+    "lastUpdated": "2026-08-23T11:43:33.804120"
   },
   {
     "id": "18e16b18-1b33-4143-9722-7fe23d35ea09",
@@ -918,7 +918,7 @@
     "occupancy": 24.61,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3579/LEuNEPvroj6Lymr2RVwQFYyQP0OWWm-metaR2F1dGhhbGkgVkVSVElDQUwuanBn-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:37.368960"
+    "lastUpdated": "2026-08-23T11:43:31.599139"
   },
   {
     "id": "519cf868-6e08-4d32-aec7-9fe5f897ec5a",
@@ -933,7 +933,7 @@
     "occupancy": 0.0,
     "poster": "",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:40.514799"
+    "lastUpdated": "2026-08-23T11:43:34.205027"
   },
   {
     "id": "7ac68e9a-be51-423f-bef1-161ac1ff6936",
@@ -948,7 +948,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3544/paivien-lumo_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:39.780996"
+    "lastUpdated": "2026-08-23T11:43:33.586543"
   },
   {
     "id": "6751c8df-9798-415f-9109-acdf408c8822",
@@ -987,13 +987,13 @@
     "time": "12:00",
     "price": 11,
     "sold": 0,
-    "free": 182,
-    "total": 182,
+    "free": 179,
+    "total": 179,
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3484/paw-patrol-the-dino-movie_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:36.602035"
+    "lastUpdated": "2026-08-23T11:43:30.970756"
   },
   {
     "id": "0f2d154a-34bf-4436-aaa4-bcfdea4f5fff",
@@ -1008,7 +1008,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3503/laula-minulle-arja_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:36.852855"
+    "lastUpdated": "2026-08-23T11:43:31.182256"
   },
   {
     "id": "e81c28c6-cd2f-445b-aeaa-17d797e6e3d0",
@@ -1016,14 +1016,14 @@
     "date": "2026-08-23",
     "time": "15:45",
     "price": 13,
-    "sold": 62,
-    "free": 129,
+    "sold": 61,
+    "free": 130,
     "total": 191,
-    "gross": 806,
-    "occupancy": 32.46,
+    "gross": 793,
+    "occupancy": 31.94,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3577/9vZxiylRFa4mgGtjHMzywANx99z30a-metaSU1HXzcxMTEuanBlZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:37.109480"
+    "lastUpdated": "2026-08-23T11:43:31.391851"
   },
   {
     "id": "ea8319d6-49ab-4bcf-a43e-6818be3a3abf",
@@ -1038,7 +1038,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3470/la-femme-la-plus-riche-du-monde_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:39.055549"
+    "lastUpdated": "2026-08-23T11:43:32.979952"
   },
   {
     "id": "e97363db-a750-4d01-88dc-6af523db6a0f",
@@ -1083,7 +1083,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2409/0hoaq2d8SJ0R3Xmj3Lhmgdvd035aYu-metaSm9raW5pZW1pMi5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:39.295636"
+    "lastUpdated": "2026-08-23T11:43:33.178654"
   },
   {
     "id": "93d2a16a-199c-4a2c-8119-5cf525403b2f",
@@ -1143,7 +1143,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3503/laula-minulle-arja_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:37.613925"
+    "lastUpdated": "2026-08-23T11:43:31.795748"
   },
   {
     "id": "ecbab7d7-8e53-47b7-925a-86789448523b",
@@ -1158,7 +1158,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3587/kaunarikuume_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:37.863556"
+    "lastUpdated": "2026-08-23T11:43:31.986712"
   },
   {
     "id": "4643d7e8-a30d-4c3f-9586-4675d14c3170",
@@ -1188,7 +1188,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3496/AWRcdnRda2Pa7SvyarqsG6IBaO2HZf-metaRG9uIFF1aWpvdGUgQmFyY2Vsb25hc3NhIGp1bGlzdGUuanBn-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:38.336712"
+    "lastUpdated": "2026-08-23T11:43:32.384224"
   },
   {
     "id": "f0b0b14e-be69-4f72-b1e7-64fce4b32ba0",
@@ -1203,7 +1203,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3562/the-invite_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:38.580871"
+    "lastUpdated": "2026-08-23T11:43:32.580066"
   },
   {
     "id": "8d900ff5-2620-4023-8680-d8c853c7a9c1",
@@ -1218,7 +1218,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3399/the-odyssey_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:38.820173"
+    "lastUpdated": "2026-08-23T11:43:32.777551"
   },
   {
     "id": "4643d7e8-a30d-4c3f-9586-4675d14c3170",
@@ -1233,7 +1233,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3481/spider-man-brand-new-day_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:38.100536"
+    "lastUpdated": "2026-08-23T11:43:32.189187"
   },
   {
     "id": "95408952-a1f8-465e-98e5-5b9663f9aa36",
@@ -1263,7 +1263,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:40.277568"
+    "lastUpdated": "2026-08-23T11:43:34.002947"
   },
   {
     "id": "13033a7d-4d78-4c35-81c8-20777b62f348",
@@ -1278,6 +1278,6 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3616/yEsJ0J0RYdeEISWf2J4oWwtx5P3PcF-metaVE9YSUMgMDEuanBnLmpwZWc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-23T11:15:39.542048"
+    "lastUpdated": "2026-08-23T11:43:33.386055"
   }
 ]
