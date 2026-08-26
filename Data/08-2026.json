@@ -597,7 +597,7 @@
     "occupancy": 45.03,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3582/Unpn3opwKl7tExv0IMOm7gT5iGRbaH-metaMS5wbmc=-.png?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:02.970289"
+    "lastUpdated": "2026-08-26T14:37:53.679089"
   },
   {
     "id": "18e16b18-1b33-4143-9722-7fe23d35ea09",
@@ -948,7 +948,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3544/paivien-lumo_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:01.504672"
+    "lastUpdated": "2026-08-26T14:37:52.221214"
   },
   {
     "id": "6751c8df-9798-415f-9109-acdf408c8822",
@@ -1038,7 +1038,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3470/la-femme-la-plus-riche-du-monde_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:49:58.962771"
+    "lastUpdated": "2026-08-26T14:37:49.631412"
   },
   {
     "id": "e97363db-a750-4d01-88dc-6af523db6a0f",
@@ -1077,13 +1077,13 @@
     "time": "14:15",
     "price": 0,
     "sold": 0,
-    "free": 184,
-    "total": 184,
+    "free": 183,
+    "total": 183,
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2409/0hoaq2d8SJ0R3Xmj3Lhmgdvd035aYu-metaSm9raW5pZW1pMi5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:49:59.138988"
+    "lastUpdated": "2026-08-26T14:37:49.821734"
   },
   {
     "id": "93d2a16a-199c-4a2c-8119-5cf525403b2f",
@@ -1202,7 +1202,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3562/the-invite_poster.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-08-26T13:49:58.617581"
   },
   {
@@ -1218,7 +1218,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3399/the-odyssey_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:49:58.789987"
+    "lastUpdated": "2026-08-26T14:37:49.435726"
   },
   {
     "id": "4643d7e8-a30d-4c3f-9586-4675d14c3170",
@@ -1263,7 +1263,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:03.677349"
+    "lastUpdated": "2026-08-26T14:37:54.415134"
   },
   {
     "id": "13033a7d-4d78-4c35-81c8-20777b62f348",
@@ -1271,14 +1271,14 @@
     "date": "2026-08-27",
     "time": "16:00",
     "price": 16,
-    "sold": 47,
-    "free": 144,
+    "sold": 46,
+    "free": 145,
     "total": 191,
-    "gross": 752,
-    "occupancy": 24.61,
+    "gross": 736,
+    "occupancy": 24.08,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3616/yEsJ0J0RYdeEISWf2J4oWwtx5P3PcF-metaVE9YSUMgMDEuanBnLmpwZWc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:49:59.323032"
+    "lastUpdated": "2026-08-26T14:37:50.014761"
   },
   {
     "id": "cd3a457f-a9bc-4752-b148-e8acc60746cf",
@@ -1293,7 +1293,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2783/_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:49:59.879978"
+    "lastUpdated": "2026-08-26T14:37:50.571829"
   },
   {
     "id": "3f25e0bd-25fe-4a53-ac84-6eefc964c60d",
@@ -1308,7 +1308,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3484/paw-patrol-the-dino-movie_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:00.053648"
+    "lastUpdated": "2026-08-26T14:37:50.751830"
   },
   {
     "id": "e71ccfce-8aaf-409d-80c8-1cd434171482",
@@ -1323,7 +1323,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3618/amarga-navidad_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:00.229515"
+    "lastUpdated": "2026-08-26T14:37:50.930974"
   },
   {
     "id": "eeee4bbb-7f66-42a6-84be-00f1f1c4166c",
@@ -1338,7 +1338,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3562/the-invite_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:00.404752"
+    "lastUpdated": "2026-08-26T14:37:51.112407"
   },
   {
     "id": "80d8b949-f8f1-4c40-9384-a8f8fb234c71",
@@ -1353,7 +1353,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3484/paw-patrol-the-dino-movie_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:00.593534"
+    "lastUpdated": "2026-08-26T14:37:51.293110"
   },
   {
     "id": "b858e8ec-8688-4f49-872f-b6b2e81cc141",
@@ -1368,7 +1368,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3503/laula-minulle-arja_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:00.769123"
+    "lastUpdated": "2026-08-26T14:37:51.477030"
   },
   {
     "id": "12030eff-4370-4310-85a5-697ca2bccc61",
@@ -1383,7 +1383,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3618/amarga-navidad_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:00.946082"
+    "lastUpdated": "2026-08-26T14:37:51.666903"
   },
   {
     "id": "54ab13c7-6c63-4389-a7ae-ab75d573da26",
@@ -1398,7 +1398,7 @@
     "occupancy": 41.88,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3604/bethlehem-kudumba-unit_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:01.145783"
+    "lastUpdated": "2026-08-26T14:37:51.859705"
   },
   {
     "id": "32ac5c4a-246a-47be-bd76-7e296ce2cdea",
@@ -1413,7 +1413,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3503/laula-minulle-arja_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:01.319628"
+    "lastUpdated": "2026-08-26T14:37:52.041288"
   },
   {
     "id": "5e6fd8e6-6a41-4f4b-a3ad-1e4dcf9d102d",
@@ -1428,7 +1428,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3399/the-odyssey_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:01.685831"
+    "lastUpdated": "2026-08-26T14:37:52.402441"
   },
   {
     "id": "99ad17f0-864b-41bd-aebf-407c86a67ebe",
@@ -1443,7 +1443,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3587/kaunarikuume_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:01.860329"
+    "lastUpdated": "2026-08-26T14:37:52.581448"
   },
   {
     "id": "da83181f-6060-4733-9a54-616fa6e8187f",
@@ -1458,7 +1458,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2783/_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:02.033269"
+    "lastUpdated": "2026-08-26T14:37:52.764189"
   },
   {
     "id": "aaf5a089-e6e2-40a5-9a88-ca283208110e",
@@ -1473,7 +1473,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3481/spider-man-brand-new-day_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:02.216840"
+    "lastUpdated": "2026-08-26T14:37:52.945218"
   },
   {
     "id": "a4ce63a6-1834-484c-8048-2b4149875cdc",
@@ -1488,7 +1488,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3470/la-femme-la-plus-riche-du-monde_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:02.390543"
+    "lastUpdated": "2026-08-26T14:37:53.126628"
   },
   {
     "id": "13b73215-7d1f-4eaa-854e-02eb77203ec2",
@@ -1503,7 +1503,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3618/amarga-navidad_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:02.565656"
+    "lastUpdated": "2026-08-26T14:37:53.307495"
   },
   {
     "id": "2f708bd1-5bf3-4103-bf9c-d66cf7e1b902",
@@ -1518,7 +1518,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3562/the-invite_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:02.754664"
+    "lastUpdated": "2026-08-26T14:37:53.485705"
   },
   {
     "id": "23ffe8cc-5ee9-477c-a19d-8ff6b2b1106d",
@@ -1533,7 +1533,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3600/spa-weekend_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:49:59.500126"
+    "lastUpdated": "2026-08-26T14:37:50.198901"
   },
   {
     "id": "bd68a984-bb54-4e42-8720-d3e4ca56e2e0",
@@ -1548,7 +1548,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2180/_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:03.319162"
+    "lastUpdated": "2026-08-26T14:37:54.044158"
   },
   {
     "id": "307c9957-d246-4ac2-b76c-8db45c70edc9",
@@ -1556,14 +1556,14 @@
     "date": "2026-08-28",
     "time": "16:00",
     "price": 15,
-    "sold": 20,
-    "free": 171,
+    "sold": 19,
+    "free": 172,
     "total": 191,
-    "gross": 300,
-    "occupancy": 10.47,
+    "gross": 285,
+    "occupancy": 9.95,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3692/irumudi_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:49:59.693750"
+    "lastUpdated": "2026-08-26T14:37:50.388246"
   },
   {
     "id": "eb5efa31-b18e-4908-a8ec-6453c0e79dd6",
@@ -1578,7 +1578,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2870/epic-elvis-presley-in-concert_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:03.145600"
+    "lastUpdated": "2026-08-26T14:37:53.861805"
   },
   {
     "id": "3a8aad3c-5ead-48cd-999b-d535a7038808",
@@ -1593,6 +1593,6 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2870/epic-elvis-presley-in-concert_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-08-26T13:50:03.491522"
+    "lastUpdated": "2026-08-26T14:37:54.231578"
   }
 ]
