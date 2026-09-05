@@ -191,7 +191,7 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3484/paw-patrol-the-dino-movie_poster.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-09-05T10:48:02.135240"
   },
   {
@@ -206,7 +206,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3503/laula-minulle-arja_poster.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-09-05T10:48:02.358854"
   },
   {
@@ -216,13 +216,13 @@
     "time": "14:15",
     "price": 12.5,
     "sold": 0,
-    "free": 177,
-    "total": 177,
+    "free": 164,
+    "total": 164,
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3509/presidentin-kyyditys_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:02.576684"
+    "lastUpdated": "2026-09-05T13:38:27.043182"
   },
   {
     "id": "bd68a984-bb54-4e42-8720-d3e4ca56e2e0",
@@ -252,7 +252,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3484/paw-patrol-the-dino-movie_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:03.006083"
+    "lastUpdated": "2026-09-05T13:38:27.407162"
   },
   {
     "id": "5f7c16cc-5c3c-4ca5-bb69-dd8e82a4dc13",
@@ -267,7 +267,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3618/amarga-navidad_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:03.217373"
+    "lastUpdated": "2026-09-05T13:38:27.580739"
   },
   {
     "id": "edf24366-f08d-4492-8089-774fb7ba0f0e",
@@ -282,7 +282,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3716/gelbe-briefe_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:03.428245"
+    "lastUpdated": "2026-09-05T13:38:27.762027"
   },
   {
     "id": "bed97817-364a-4316-a3ea-0eb7811b70a1",
@@ -297,7 +297,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3470/la-femme-la-plus-riche-du-monde_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:03.643068"
+    "lastUpdated": "2026-09-05T13:38:27.930654"
   },
   {
     "id": "f77e623e-011a-4b3a-8386-4846533ce318",
@@ -312,7 +312,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3509/presidentin-kyyditys_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:03.853938"
+    "lastUpdated": "2026-09-05T13:38:28.104560"
   },
   {
     "id": "5518d05f-7cdf-42ba-813f-e0337a82ef02",
@@ -327,7 +327,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3706/breve-storia-damore_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:04.065497"
+    "lastUpdated": "2026-09-05T13:38:28.292519"
   },
   {
     "id": "8f62813c-b235-49f2-ae89-d8eda7968c9a",
@@ -342,7 +342,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3544/paivien-lumo_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:04.275710"
+    "lastUpdated": "2026-09-05T13:38:28.466660"
   },
   {
     "id": "3a8aad3c-5ead-48cd-999b-d535a7038808",
@@ -357,7 +357,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2870/epic-elvis-presley-in-concert_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:04.486619"
+    "lastUpdated": "2026-09-05T13:38:28.646253"
   },
   {
     "id": "95408952-a1f8-465e-98e5-5b9663f9aa36",
@@ -366,13 +366,13 @@
     "time": "11:15",
     "price": 10,
     "sold": 0,
-    "free": 82,
-    "total": 82,
+    "free": 79,
+    "total": 79,
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:04.696397"
+    "lastUpdated": "2026-09-05T13:38:28.823898"
   },
   {
     "id": "3c2e6650-60f8-42ef-b22f-e5c175dc2593",
@@ -387,7 +387,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3618/amarga-navidad_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:04.916880"
+    "lastUpdated": "2026-09-05T13:38:28.998388"
   },
   {
     "id": "5f680643-9309-4429-897d-b64b13ab946f",
@@ -402,7 +402,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3716/gelbe-briefe_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:05.130825"
+    "lastUpdated": "2026-09-05T13:38:29.496384"
   },
   {
     "id": "da32c2ae-87f4-4aa5-b75b-40124e5e6ac5",
@@ -417,7 +417,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:05.341621"
+    "lastUpdated": "2026-09-05T13:38:29.675204"
   },
   {
     "id": "bd568616-dba6-4b76-9c8d-52be236bd0b7",
@@ -455,14 +455,14 @@
     "date": "2026-09-05",
     "time": "16:00",
     "price": 13,
-    "sold": 54,
-    "free": 137,
+    "sold": 59,
+    "free": 132,
     "total": 191,
-    "gross": 702,
-    "occupancy": 28.27,
+    "gross": 767,
+    "occupancy": 30.89,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3604/bethlehem-kudumba-unit_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:02.794640"
+    "lastUpdated": "2026-09-05T13:38:27.228866"
   },
   {
     "id": "5c1b628a-1617-4ca9-a923-9a94942d3373",
@@ -470,13 +470,13 @@
     "date": "2026-09-25",
     "time": "16:15",
     "price": 16.5,
-    "sold": 4,
-    "free": 187,
+    "sold": 12,
+    "free": 179,
     "total": 191,
-    "gross": 66.0,
-    "occupancy": 2.09,
+    "gross": 198.0,
+    "occupancy": 6.28,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3728/R1LaxKtuMqfAnmUd1ff2DCpmMUanel-metaRklOTEFORCAxLnBuZw==-.png?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-05T10:48:05.550578"
+    "lastUpdated": "2026-09-05T13:38:29.855594"
   }
 ]
