@@ -432,7 +432,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:47.800431"
+    "lastUpdated": "2026-09-12T17:38:09.781767"
   },
   {
     "id": "3922d0dd-9c1e-4138-bf08-8c802c5029a5",
@@ -477,7 +477,7 @@
     "occupancy": 56.54,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3728/R1LaxKtuMqfAnmUd1ff2DCpmMUanel-metaRklOTEFORCAxLnBuZw==-.png?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:49.383754"
+    "lastUpdated": "2026-09-12T17:38:11.396629"
   },
   {
     "id": "324f4b1f-b6c4-4f93-a744-c897f48c0757",
@@ -551,7 +551,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-09-12T14:50:45.342701"
   },
   {
@@ -567,7 +567,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3618/amarga-navidad_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:45.700945"
+    "lastUpdated": "2026-09-12T17:38:07.637285"
   },
   {
     "id": "99908bd8-dc57-454e-9f6f-7617f7640e0d",
@@ -582,7 +582,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:45.878538"
+    "lastUpdated": "2026-09-12T17:38:07.816436"
   },
   {
     "id": "918e087b-d955-4804-8b7a-950cf27c0be2",
@@ -597,7 +597,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3509/presidentin-kyyditys_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:46.054250"
+    "lastUpdated": "2026-09-12T17:38:07.995788"
   },
   {
     "id": "494e17d6-1aaa-492c-abc5-770708ee1dc5",
@@ -612,7 +612,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3618/amarga-navidad_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:46.229075"
+    "lastUpdated": "2026-09-12T17:38:08.171259"
   },
   {
     "id": "9a341f75-d65b-42c7-a30e-a94e0d7c283c",
@@ -627,7 +627,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:46.401524"
+    "lastUpdated": "2026-09-12T17:38:08.347661"
   },
   {
     "id": "132363cf-7409-4ba1-8c3a-e3aa5f71a9ab",
@@ -642,7 +642,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3562/the-invite_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:46.573533"
+    "lastUpdated": "2026-09-12T17:38:08.536964"
   },
   {
     "id": "6620df4e-f1a4-4455-bad5-c849ecb07e28",
@@ -657,7 +657,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3509/presidentin-kyyditys_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:46.754094"
+    "lastUpdated": "2026-09-12T17:38:08.715574"
   },
   {
     "id": "9331d1d7-5987-423b-b40b-5a7f23b70177",
@@ -672,7 +672,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2779/wuthering-heights_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:46.945912"
+    "lastUpdated": "2026-09-12T17:38:08.889542"
   },
   {
     "id": "ed7eea8a-d2cf-4edf-8f04-a446700ddc1a",
@@ -687,7 +687,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3730/the-rivals-of-amziah-king_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:47.121335"
+    "lastUpdated": "2026-09-12T17:38:09.065981"
   },
   {
     "id": "8047ef86-70e8-41a8-99a5-fb068c4819c9",
@@ -702,7 +702,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:47.290254"
+    "lastUpdated": "2026-09-12T17:38:09.240234"
   },
   {
     "id": "ba69cfd6-e17e-4da7-bae1-71e5b1512fe7",
@@ -717,7 +717,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3716/gelbe-briefe_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:47.461092"
+    "lastUpdated": "2026-09-12T17:38:09.421781"
   },
   {
     "id": "5d4e3b1f-f8ef-4a2c-bb70-bb5b6531b77d",
@@ -732,7 +732,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3738/svecias_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:47.629060"
+    "lastUpdated": "2026-09-12T17:38:09.595645"
   },
   {
     "id": "f5d7651b-d379-43ec-8fd6-6e2d2181d683",
@@ -747,7 +747,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3509/presidentin-kyyditys_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:47.969664"
+    "lastUpdated": "2026-09-12T17:38:09.958589"
   },
   {
     "id": "b1cfa400-d295-43dc-aefe-24b5f17efd0e",
@@ -762,7 +762,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:48.147885"
+    "lastUpdated": "2026-09-12T17:38:10.137045"
   },
   {
     "id": "280f9867-18d3-4a9d-b307-ecb91293facb",
@@ -777,7 +777,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3509/presidentin-kyyditys_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:48.497392"
+    "lastUpdated": "2026-09-12T17:38:10.492641"
   },
   {
     "id": "2ef0141b-cf4e-4bf5-b27b-10496f716e5b",
@@ -792,7 +792,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:48.668904"
+    "lastUpdated": "2026-09-12T17:38:10.667193"
   },
   {
     "id": "7de60292-2b74-4447-91ce-ac24e74e6538",
@@ -807,7 +807,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3753/pressure_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:48.844246"
+    "lastUpdated": "2026-09-12T17:38:10.841651"
   },
   {
     "id": "bd568616-dba6-4b76-9c8d-52be236bd0b7",
@@ -836,7 +836,7 @@
     "gross": 315,
     "occupancy": 10.99,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3760/sardar-2_poster.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-09-12T14:50:45.525666"
   },
   {
@@ -852,7 +852,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3022/father-mother-sister-brother_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:48.320802"
+    "lastUpdated": "2026-09-12T17:38:10.310573"
   },
   {
     "id": "86c88fe3-caa5-46f2-aa01-504637021d3f",
@@ -867,7 +867,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3022/father-mother-sister-brother_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:49.017264"
+    "lastUpdated": "2026-09-12T17:38:11.021182"
   },
   {
     "id": "7faa07f9-44a4-4928-8270-3d9dac6232bc",
@@ -882,6 +882,6 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3509/presidentin-kyyditys_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-12T14:50:49.188968"
+    "lastUpdated": "2026-09-12T17:38:11.199985"
   }
 ]
