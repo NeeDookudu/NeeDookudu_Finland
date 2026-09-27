@@ -897,7 +897,7 @@
     "occupancy": 0.0,
     "poster": "",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:42.549805"
+    "lastUpdated": "2026-09-27T11:13:19.527174"
   },
   {
     "id": "2e4097de-cb51-4d0a-9fc6-28b1fd66ca38",
@@ -1182,7 +1182,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2656/the-salt-path_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:40.277375"
+    "lastUpdated": "2026-09-27T11:13:17.708890"
   },
   {
     "id": "72d15db4-d54e-4436-aa3d-8a608c827a35",
@@ -1197,7 +1197,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3821/kfxq2W8Bac2xQKJAMQa1xji4Kkpz05-metaS3V2YTUgQ2FtcGVvbmVzLmpwZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:42.327442"
+    "lastUpdated": "2026-09-27T11:13:19.350684"
   },
   {
     "id": "0b8cf8b2-bc9b-49a2-85c6-3d8130ac352e",
@@ -1226,7 +1226,7 @@
     "gross": 1950,
     "occupancy": 68.06,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3786/hanuman-ansh_poster.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-09-27T05:30:38.399639"
   },
   {
@@ -1250,14 +1250,14 @@
     "date": "2026-09-27",
     "time": "15:30",
     "price": 16.5,
-    "sold": 38,
-    "free": 153,
+    "sold": 41,
+    "free": 150,
     "total": 191,
-    "gross": 627.0,
-    "occupancy": 19.9,
+    "gross": 676.5,
+    "occupancy": 21.47,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3792/QgcJzztgEEdINLL7Zu4y9ldsWWIKF3-metaU2VhdGFwcF9Qb3N0ZXJfQ1VUXzI1OTJ4Mzg0MHB4LmpwZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:39.107916"
+    "lastUpdated": "2026-09-27T11:13:16.805049"
   },
   {
     "id": "8e50777d-38d9-4495-ae38-a02a6eb38d60",
@@ -1272,7 +1272,7 @@
     "occupancy": 14.14,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3792/QgcJzztgEEdINLL7Zu4y9ldsWWIKF3-metaU2VhdGFwcF9Qb3N0ZXJfQ1VUXzI1OTJ4Mzg0MHB4LmpwZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:40.505405"
+    "lastUpdated": "2026-09-27T11:13:17.887125"
   },
   {
     "id": "5a26caf0-35b1-4c6e-8148-ef7235153ba5",
@@ -1287,7 +1287,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2475/_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:41.638744"
+    "lastUpdated": "2026-09-27T11:13:18.808820"
   },
   {
     "id": "9fbd85d6-2a19-484f-acdb-b7e87e4cf9bb",
@@ -1302,7 +1302,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2475/_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:42.102605"
+    "lastUpdated": "2026-09-27T11:13:19.169436"
   },
   {
     "id": "2aba53dd-4e3e-444c-839e-47f5c75a731c",
@@ -1341,13 +1341,13 @@
     "time": "11:45",
     "price": 12.5,
     "sold": 0,
-    "free": 187,
-    "total": 187,
+    "free": 181,
+    "total": 181,
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3779/pressure_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:38.635805"
+    "lastUpdated": "2026-09-27T11:13:16.441752"
   },
   {
     "id": "63ea1fde-f6ad-48e5-a752-879be954e4ec",
@@ -1356,13 +1356,13 @@
     "time": "13:45",
     "price": 12.5,
     "sold": 0,
-    "free": 188,
-    "total": 188,
+    "free": 186,
+    "total": 186,
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3509/presidentin-kyyditys_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:38.870725"
+    "lastUpdated": "2026-09-27T11:13:16.619900"
   },
   {
     "id": "1d1a5880-71b8-4331-a11b-ddaf33b6dbfd",
@@ -1407,7 +1407,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:39.335003"
+    "lastUpdated": "2026-09-27T11:13:16.986041"
   },
   {
     "id": "6f8f15a8-20bb-486b-81a4-3cc5c193b2fe",
@@ -1422,7 +1422,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3509/presidentin-kyyditys_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:39.576451"
+    "lastUpdated": "2026-09-27T11:13:17.165346"
   },
   {
     "id": "f5a162b2-23f1-423a-9962-5424214851f8",
@@ -1437,7 +1437,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3562/the-invite_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:39.802319"
+    "lastUpdated": "2026-09-27T11:13:17.347893"
   },
   {
     "id": "a603e422-773d-43d8-8b8c-e66bef504e70",
@@ -1452,7 +1452,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3762/coyote-vs-acme_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:40.035903"
+    "lastUpdated": "2026-09-27T11:13:17.524890"
   },
   {
     "id": "22b2a975-0607-4efd-a3b7-fae424f296b6",
@@ -1467,7 +1467,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3509/presidentin-kyyditys_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:40.734806"
+    "lastUpdated": "2026-09-27T11:13:18.072916"
   },
   {
     "id": "2545b4cc-08f5-4815-a3af-6578888e7e1d",
@@ -1482,7 +1482,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3794/rakkautta-ja-virtahepoja_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:40.963272"
+    "lastUpdated": "2026-09-27T11:13:18.261800"
   },
   {
     "id": "b785385e-cb21-45fa-84e3-aa9938e21c88",
@@ -1497,7 +1497,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3779/pressure_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:41.191170"
+    "lastUpdated": "2026-09-27T11:13:18.443156"
   },
   {
     "id": "7faa07f9-44a4-4928-8270-3d9dac6232bc",
@@ -1578,7 +1578,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3822/the-secret-reading-club-of-kabul_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:41.863532"
+    "lastUpdated": "2026-09-27T11:13:18.988999"
   },
   {
     "id": "ed87b372-6cd9-4972-89e4-5a0eafc72b4e",
@@ -1586,13 +1586,13 @@
     "date": "2026-10-02",
     "time": "16:30",
     "price": 12.5,
-    "sold": 0,
-    "free": 191,
+    "sold": 7,
+    "free": 184,
     "total": 191,
-    "gross": 0.0,
-    "occupancy": 0.0,
+    "gross": 87.5,
+    "occupancy": 3.66,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3786/hanuman-ansh_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-09-27T05:30:41.415063"
+    "lastUpdated": "2026-09-27T11:13:18.629769"
   }
 ]
