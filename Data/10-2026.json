@@ -206,7 +206,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3738/svecias_poster.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-10-05T09:22:47.720065"
   },
   {
@@ -221,7 +221,7 @@
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3861/sopeutumaton_poster.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-10-05T09:22:47.958546"
   },
   {
@@ -237,7 +237,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:48.195524"
+    "lastUpdated": "2026-10-05T18:41:02.495875"
   },
   {
     "id": "ad39253b-0547-446a-a362-90c6f2a62738",
@@ -252,7 +252,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3831/la-grazia_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:48.502247"
+    "lastUpdated": "2026-10-05T18:41:02.732321"
   },
   {
     "id": "3b016669-fd24-4fc1-89ae-b33ce24a2e25",
@@ -267,7 +267,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3842/digger_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:48.737086"
+    "lastUpdated": "2026-10-05T18:41:02.952492"
   },
   {
     "id": "dedcee00-9b88-4303-90ed-bd442bad760a",
@@ -282,7 +282,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3509/presidentin-kyyditys_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:48.978233"
+    "lastUpdated": "2026-10-05T18:41:03.173689"
   },
   {
     "id": "9fbd85d6-2a19-484f-acdb-b7e87e4cf9bb",
@@ -297,7 +297,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2475/_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:49.242779"
+    "lastUpdated": "2026-10-05T18:41:03.398508"
   },
   {
     "id": "422b5fe2-3dbf-4db4-848c-4e354edd945c",
@@ -312,7 +312,7 @@
     "occupancy": 15.71,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3792/QgcJzztgEEdINLL7Zu4y9ldsWWIKF3-metaU2VhdGFwcF9Qb3N0ZXJfQ1VUXzI1OTJ4Mzg0MHB4LmpwZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:49.484580"
+    "lastUpdated": "2026-10-05T18:41:03.630191"
   },
   {
     "id": "5a2995c0-79de-4322-817c-fe353938bfc7",
@@ -321,13 +321,13 @@
     "time": "11:00",
     "price": 10,
     "sold": 0,
-    "free": 186,
-    "total": 186,
+    "free": 185,
+    "total": 185,
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3794/rakkautta-ja-virtahepoja_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:49.719493"
+    "lastUpdated": "2026-10-05T18:41:03.855431"
   },
   {
     "id": "e292c952-5fe3-44b9-8d01-f597579f7df0",
@@ -342,7 +342,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3831/la-grazia_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:49.957288"
+    "lastUpdated": "2026-10-05T18:41:04.099090"
   },
   {
     "id": "7c0f0d55-1c73-49b9-b92c-85e354d4a5f1",
@@ -357,7 +357,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3820/RQngPHQTklqIPkcksokYHoGfMz1vBp-metaS3V2YTQgTGEgSXNsYSBNaW5pbWEuanBn-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:50.198655"
+    "lastUpdated": "2026-10-05T18:41:04.334932"
   },
   {
     "id": "eac1fe37-1311-40c9-ab31-a912a99716dd",
@@ -372,7 +372,7 @@
     "occupancy": 1.57,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3807/kerro-kaikille_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:50.443208"
+    "lastUpdated": "2026-10-05T18:41:04.562668"
   },
   {
     "id": "72d15db4-d54e-4436-aa3d-8a608c827a35",
@@ -387,22 +387,22 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3821/kfxq2W8Bac2xQKJAMQa1xji4Kkpz05-metaS3V2YTUgQ2FtcGVvbmVzLmpwZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:50.686205"
+    "lastUpdated": "2026-10-05T18:41:05.035946"
   },
   {
     "id": "33309528-205b-4419-a8ee-47e48966ead8",
-    "movie": "Bokshi",
+    "movie": "Verityn varjo",
     "date": "2026-10-09",
     "time": "16:45",
-    "price": 15,
+    "price": 12.5,
     "sold": 0,
-    "free": 191,
-    "total": 191,
-    "gross": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0.0,
     "occupancy": 0.0,
-    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3883/bokshi_poster.jpg?width=1000&quality=85",
-    "status": "missing",
-    "lastUpdated": "2026-10-04T06:08:25.978656"
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3849/verity_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:04.788357"
   },
   {
     "id": "a8c70f1a-2786-4662-ba38-660a3e3bd1f4",
@@ -425,14 +425,14 @@
     "date": "2026-10-16",
     "time": "16:15",
     "price": 16.5,
-    "sold": 0,
-    "free": 191,
+    "sold": 7,
+    "free": 184,
     "total": 191,
-    "gross": 0.0,
-    "occupancy": 0.0,
+    "gross": 115.5,
+    "occupancy": 3.66,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3918/Bz3KH38LKTATCaaee0TxNL3TxI1Jqa-metaTXVzdGFfcG9yaV9uMmtrdV9BNC5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:51.268011"
+    "lastUpdated": "2026-10-05T18:41:09.511595"
   },
   {
     "id": "0a9cfcaf-877a-4cee-9397-32552229cb0b",
@@ -440,14 +440,14 @@
     "date": "2026-10-21",
     "time": "16:30",
     "price": 16.5,
-    "sold": 0,
-    "free": 191,
+    "sold": 2,
+    "free": 189,
     "total": 191,
-    "gross": 0.0,
-    "occupancy": 0.0,
+    "gross": 33.0,
+    "occupancy": 1.05,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3918/Bz3KH38LKTATCaaee0TxNL3TxI1Jqa-metaTXVzdGFfcG9yaV9uMmtrdV9BNC5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:51.760889"
+    "lastUpdated": "2026-10-05T18:41:10.428317"
   },
   {
     "id": "21c74597-12de-45ef-b8e3-14349dfc47bb",
@@ -462,7 +462,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3934/lapin-sota_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:52.004584"
+    "lastUpdated": "2026-10-05T18:41:10.663717"
   },
   {
     "id": "4d829432-1af0-4298-a1a5-784ea75da346",
@@ -470,14 +470,14 @@
     "date": "2026-10-15",
     "time": "17:30",
     "price": 18,
-    "sold": 59,
-    "free": 132,
+    "sold": 67,
+    "free": 124,
     "total": 191,
-    "gross": 1062,
-    "occupancy": 30.89,
+    "gross": 1206,
+    "occupancy": 35.08,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3898/QEpXR9pL329XQwhdfhM9RalpLavZV8-metaSU1HXzE5NTEuanBlZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:51.020495"
+    "lastUpdated": "2026-10-05T18:41:09.040377"
   },
   {
     "id": "23f337c2-fcc5-4dc2-9a5c-5f4578cd3e57",
@@ -485,13 +485,298 @@
     "date": "2026-10-16",
     "time": "17:45",
     "price": 18,
-    "sold": 7,
-    "free": 184,
+    "sold": 16,
+    "free": 175,
     "total": 191,
-    "gross": 126,
-    "occupancy": 3.66,
+    "gross": 288,
+    "occupancy": 8.38,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3898/QEpXR9pL329XQwhdfhM9RalpLavZV8-metaSU1HXzE5NTEuanBlZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-05T09:22:51.513676"
+    "lastUpdated": "2026-10-05T18:41:09.740621"
+  },
+  {
+    "id": "be5ea77b-af17-4af5-817d-6585d51afa8a",
+    "movie": "Kerro kaikille",
+    "date": "2026-10-10",
+    "time": "13:15",
+    "price": 12.5,
+    "sold": 0,
+    "free": 191,
+    "total": 191,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3807/kerro-kaikille_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:05.276854"
+  },
+  {
+    "id": "373338e6-87fc-4813-ab7f-48c385cb8732",
+    "movie": "La Grazia",
+    "date": "2026-10-10",
+    "time": "15:15",
+    "price": 12.5,
+    "sold": 0,
+    "free": 191,
+    "total": 191,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3831/la-grazia_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:05.512997"
+  },
+  {
+    "id": "e8fb303d-cf94-426e-ac7b-356753d3f5ed",
+    "movie": "Tony",
+    "date": "2026-10-10",
+    "time": "17:45",
+    "price": 12.5,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3923/tony_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:05.744698"
+  },
+  {
+    "id": "bcb92760-a77c-446d-a244-9d2b2eb9fe65",
+    "movie": "Unohdettu saari (dub)",
+    "date": "2026-10-11",
+    "time": "11:00",
+    "price": 11,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3874/forgotten-island_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:05.983555"
+  },
+  {
+    "id": "57a624ac-2029-4695-a462-a46785eabaa1",
+    "movie": "The Secret Reading Club of Kabul",
+    "date": "2026-10-11",
+    "time": "13:00",
+    "price": 12.5,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3822/the-secret-reading-club-of-kabul_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:06.218715"
+  },
+  {
+    "id": "29faf7b1-08e7-4e6c-a557-ea47a5018733",
+    "movie": "The Social Reckoning",
+    "date": "2026-10-11",
+    "time": "15:00",
+    "price": 12.5,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3920/the-social-reckoning_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:06.447476"
+  },
+  {
+    "id": "77bb08c1-112a-48a7-9956-59c263531e6e",
+    "movie": "Unohdettu saari (dub)",
+    "date": "2026-10-13",
+    "time": "10:45",
+    "price": 11,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3874/forgotten-island_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:06.675294"
+  },
+  {
+    "id": "b682f83c-801c-40fb-b2cd-e0405ab547d1",
+    "movie": "Presidentin kyyditys",
+    "date": "2026-10-13",
+    "time": "13:00",
+    "price": 12.5,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3509/presidentin-kyyditys_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:06.908416"
+  },
+  {
+    "id": "81bc172f-0933-49e7-bd09-b229d654efc5",
+    "movie": "Kerro kaikille",
+    "date": "2026-10-13",
+    "time": "14:45",
+    "price": 12.5,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3807/kerro-kaikille_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:07.135307"
+  },
+  {
+    "id": "f411b18e-2f56-45fd-abb4-d9bdd7d58047",
+    "movie": "Tony",
+    "date": "2026-10-13",
+    "time": "16:45",
+    "price": 12.5,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3923/tony_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:07.361409"
+  },
+  {
+    "id": "53c0e51d-33da-4235-9047-3163ee928796",
+    "movie": "Late Lammas -elokuva: Hämäräpuuhissa",
+    "date": "2026-10-14",
+    "time": "11:00",
+    "price": 11,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3891/shaun-the-sheep-the-beast-of-mossy-bottom_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:07.672583"
+  },
+  {
+    "id": "220bcae0-5ebb-477a-bd38-47092c05da7a",
+    "movie": "The Secret Reading Club of Kabul",
+    "date": "2026-10-14",
+    "time": "12:45",
+    "price": 12.5,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3822/the-secret-reading-club-of-kabul_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:07.899635"
+  },
+  {
+    "id": "a41391d0-9d20-4e60-be36-b5a054e335e0",
+    "movie": "The Social Reckoning",
+    "date": "2026-10-14",
+    "time": "14:30",
+    "price": 12.5,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3920/the-social-reckoning_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:08.124492"
+  },
+  {
+    "id": "7f795744-f67f-4ca9-9777-e8f941973dbd",
+    "movie": "DIGGER",
+    "date": "2026-10-14",
+    "time": "16:45",
+    "price": 12.5,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3842/digger_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:08.356547"
+  },
+  {
+    "id": "6f5257ad-38b6-4836-8b7a-fff510562499",
+    "movie": "Ryhmä Hau: Dinoelokuva (org)",
+    "date": "2026-10-15",
+    "time": "11:00",
+    "price": 11,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3499/Gf5RT91hZJM4nB3kT86I10DRW16lod-metaUFAzX0lOVExfMTk4NHgyODM1X09ubGluZV9EaWdpdGFsX0tleUFydF9QcmVoaXN0b3JpY19GSS5qcGc=-.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:08.579311"
+  },
+  {
+    "id": "10c8c7a6-93c9-4c9c-895f-3e1e961e8d4e",
+    "movie": "Hetki ennen valoa",
+    "date": "2026-10-15",
+    "time": "12:45",
+    "price": 12.5,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:08.802264"
+  },
+  {
+    "id": "77e988f5-b5e9-4856-a102-1b5e6f01c81f",
+    "movie": "Late Lammas -elokuva: Hämäräpuuhissa",
+    "date": "2026-10-16",
+    "time": "11:00",
+    "price": 11,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3891/shaun-the-sheep-the-beast-of-mossy-bottom_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:09.269457"
+  },
+  {
+    "id": "8a2bdbdb-242f-4052-a923-233da495ea5b",
+    "movie": "Pikku Kummitus Lapanen keppostelee",
+    "date": "2026-10-17",
+    "time": "11:15",
+    "price": 11,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3958/pikku-kummitus-lapanen-keppostelee_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:09.973270"
+  },
+  {
+    "id": "8828c7e0-62ce-4d07-b61f-b0436f7b585e",
+    "movie": "Must pori näkku",
+    "date": "2026-10-17",
+    "time": "16:30",
+    "price": 16.5,
+    "sold": 0,
+    "free": 191,
+    "total": 191,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3918/Bz3KH38LKTATCaaee0TxNL3TxI1Jqa-metaTXVzdGFfcG9yaV9uMmtrdV9BNC5qcGc=-.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-10-05T18:41:10.204803"
   }
 ]
