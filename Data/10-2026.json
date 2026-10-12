@@ -432,7 +432,7 @@
     "occupancy": 12.57,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3918/Bz3KH38LKTATCaaee0TxNL3TxI1Jqa-metaTXVzdGFfcG9yaV9uMmtrdV9BNC5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:31.344178"
+    "lastUpdated": "2026-10-12T01:29:21.095183"
   },
   {
     "id": "0a9cfcaf-877a-4cee-9397-32552229cb0b",
@@ -447,7 +447,7 @@
     "occupancy": 8.9,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3918/Bz3KH38LKTATCaaee0TxNL3TxI1Jqa-metaTXVzdGFfcG9yaV9uMmtrdV9BNC5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:32.795371"
+    "lastUpdated": "2026-10-12T01:29:22.332466"
   },
   {
     "id": "21c74597-12de-45ef-b8e3-14349dfc47bb",
@@ -462,7 +462,7 @@
     "occupancy": 3.14,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3934/lapin-sota_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:33.038570"
+    "lastUpdated": "2026-10-12T01:29:22.530470"
   },
   {
     "id": "4d829432-1af0-4298-a1a5-784ea75da346",
@@ -477,7 +477,7 @@
     "occupancy": 73.3,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3898/QEpXR9pL329XQwhdfhM9RalpLavZV8-metaSU1HXzE5NTEuanBlZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:30.862361"
+    "lastUpdated": "2026-10-12T01:29:20.696598"
   },
   {
     "id": "23f337c2-fcc5-4dc2-9a5c-5f4578cd3e57",
@@ -485,14 +485,14 @@
     "date": "2026-10-16",
     "time": "17:45",
     "price": 18,
-    "sold": 92,
-    "free": 99,
+    "sold": 91,
+    "free": 100,
     "total": 191,
-    "gross": 1656,
-    "occupancy": 48.17,
+    "gross": 1638,
+    "occupancy": 47.64,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3898/QEpXR9pL329XQwhdfhM9RalpLavZV8-metaSU1HXzE5NTEuanBlZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:31.589969"
+    "lastUpdated": "2026-10-12T01:29:21.311256"
   },
   {
     "id": "be5ea77b-af17-4af5-817d-6585d51afa8a",
@@ -597,7 +597,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3874/forgotten-island_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:28.522985"
+    "lastUpdated": "2026-10-12T01:29:18.648288"
   },
   {
     "id": "b682f83c-801c-40fb-b2cd-e0405ab547d1",
@@ -612,7 +612,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3509/presidentin-kyyditys_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:28.747739"
+    "lastUpdated": "2026-10-12T01:29:18.859577"
   },
   {
     "id": "81bc172f-0933-49e7-bd09-b229d654efc5",
@@ -627,7 +627,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3807/kerro-kaikille_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:28.987050"
+    "lastUpdated": "2026-10-12T01:29:19.060283"
   },
   {
     "id": "f411b18e-2f56-45fd-abb4-d9bdd7d58047",
@@ -642,7 +642,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3923/tony_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:29.229156"
+    "lastUpdated": "2026-10-12T01:29:19.262073"
   },
   {
     "id": "53c0e51d-33da-4235-9047-3163ee928796",
@@ -657,7 +657,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3891/shaun-the-sheep-the-beast-of-mossy-bottom_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:29.460943"
+    "lastUpdated": "2026-10-12T01:29:19.458827"
   },
   {
     "id": "220bcae0-5ebb-477a-bd38-47092c05da7a",
@@ -672,7 +672,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3822/the-secret-reading-club-of-kabul_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:29.688536"
+    "lastUpdated": "2026-10-12T01:29:19.666042"
   },
   {
     "id": "a41391d0-9d20-4e60-be36-b5a054e335e0",
@@ -687,7 +687,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3920/the-social-reckoning_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:29.920312"
+    "lastUpdated": "2026-10-12T01:29:19.866467"
   },
   {
     "id": "7f795744-f67f-4ca9-9777-e8f941973dbd",
@@ -702,7 +702,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3842/digger_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:30.148486"
+    "lastUpdated": "2026-10-12T01:29:20.069594"
   },
   {
     "id": "6f5257ad-38b6-4836-8b7a-fff510562499",
@@ -717,7 +717,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3499/Gf5RT91hZJM4nB3kT86I10DRW16lod-metaUFAzX0lOVExfMTk4NHgyODM1X09ubGluZV9EaWdpdGFsX0tleUFydF9QcmVoaXN0b3JpY19GSS5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:30.374791"
+    "lastUpdated": "2026-10-12T01:29:20.267660"
   },
   {
     "id": "10c8c7a6-93c9-4c9c-895f-3e1e961e8d4e",
@@ -732,7 +732,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:30.598633"
+    "lastUpdated": "2026-10-12T01:29:20.471637"
   },
   {
     "id": "77e988f5-b5e9-4856-a102-1b5e6f01c81f",
@@ -747,7 +747,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3891/shaun-the-sheep-the-beast-of-mossy-bottom_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:31.096773"
+    "lastUpdated": "2026-10-12T01:29:20.894310"
   },
   {
     "id": "8a2bdbdb-242f-4052-a923-233da495ea5b",
@@ -762,7 +762,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3958/pikku-kummitus-lapanen-keppostelee_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:31.818298"
+    "lastUpdated": "2026-10-12T01:29:21.520778"
   },
   {
     "id": "8828c7e0-62ce-4d07-b61f-b0436f7b585e",
@@ -777,7 +777,7 @@
     "occupancy": 7.33,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3918/Bz3KH38LKTATCaaee0TxNL3TxI1Jqa-metaTXVzdGFfcG9yaV9uMmtrdV9BNC5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:32.056241"
+    "lastUpdated": "2026-10-12T01:29:21.730259"
   },
   {
     "id": "ad58c9db-31a4-48bc-a9a4-83ac61fd9d64",
@@ -807,7 +807,7 @@
     "occupancy": 9.95,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3982/drishyam-the-conclusion_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:28.286580"
+    "lastUpdated": "2026-10-12T01:29:18.449129"
   },
   {
     "id": "7866a865-af0c-4c25-86c6-26162b26fdc6",
@@ -822,7 +822,7 @@
     "occupancy": 5.76,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3982/drishyam-the-conclusion_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:32.312158"
+    "lastUpdated": "2026-10-12T01:29:21.930924"
   },
   {
     "id": "478e0a3c-e8e3-4d4d-af44-03f9c14acab7",
@@ -837,7 +837,7 @@
     "occupancy": 1.05,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3984/8aaSF3qMNtF7Ynw7qBmfc8tKAkWNAA-metaUGVuc2lvbiBQYXR0YSA3MDBYMTAwMCBQeC5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:32.560616"
+    "lastUpdated": "2026-10-12T01:29:22.132998"
   },
   {
     "id": "3768e8c9-2eac-4a9b-a831-382912cc74a1",
@@ -852,6 +852,6 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3888/D5RwY8YOGsRSd4SGkp5CutWx1esyge-metaMV9BcnRfTWNMYXJlbl9ESUdJX0xSLmpwZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-10-11T22:13:33.301678"
+    "lastUpdated": "2026-10-12T01:29:22.725610"
   }
 ]
