@@ -116,7 +116,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3509/presidentin-kyyditys_poster.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-11-03T05:46:43.907625"
   },
   {
@@ -131,7 +131,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3606/hetki-ennen-valoa_poster.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-11-03T05:46:44.075512"
   },
   {
@@ -141,13 +141,13 @@
     "time": "13:30",
     "price": 12.5,
     "sold": 0,
-    "free": 188,
-    "total": 188,
+    "free": 177,
+    "total": 177,
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3831/la-grazia_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:44.246299"
+    "lastUpdated": "2026-11-03T13:28:15.299750"
   },
   {
     "id": "92b39ca7-d112-42ec-88a3-aabbd5cd7163",
@@ -156,13 +156,13 @@
     "time": "16:00",
     "price": 12.5,
     "sold": 0,
-    "free": 182,
-    "total": 182,
+    "free": 180,
+    "total": 180,
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4044/wildwood_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:44.418352"
+    "lastUpdated": "2026-11-03T13:28:15.505357"
   },
   {
     "id": "4fab7f6f-1bf6-4029-a249-3d0245139202",
@@ -177,7 +177,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3979/resan-till-piemonte_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:44.593146"
+    "lastUpdated": "2026-11-03T13:28:15.703602"
   },
   {
     "id": "d214055d-590d-499a-ab54-01c72bd5e9e0",
@@ -192,7 +192,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2872/zuopiezi-nuhai_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:44.767193"
+    "lastUpdated": "2026-11-03T13:28:15.900397"
   },
   {
     "id": "c35901fc-9035-4173-a982-11022b07b33b",
@@ -207,7 +207,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3934/lapin-sota_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:44.940976"
+    "lastUpdated": "2026-11-03T13:28:16.105232"
   },
   {
     "id": "5ce6b944-567a-4208-94de-5b2fa04000af",
@@ -215,14 +215,14 @@
     "date": "2026-11-05",
     "time": "12:00",
     "price": 10,
-    "sold": 126,
-    "free": 65,
+    "sold": 137,
+    "free": 54,
     "total": 191,
-    "gross": 1260,
-    "occupancy": 65.97,
+    "gross": 1370,
+    "occupancy": 71.73,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3807/kerro-kaikille_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:45.136717"
+    "lastUpdated": "2026-11-03T13:28:16.346244"
   },
   {
     "id": "da302c8b-b102-4027-9be6-d156106493e5",
@@ -237,7 +237,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4027/der-held-vom-bahnhof-friedrichstrasse_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:45.309433"
+    "lastUpdated": "2026-11-03T13:28:16.544858"
   },
   {
     "id": "d64ecf5b-edec-42ba-a9f9-644d2795ccfa",
@@ -252,7 +252,7 @@
     "occupancy": 8.9,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3918/Bz3KH38LKTATCaaee0TxNL3TxI1Jqa-metaTXVzdGFfcG9yaV9uMmtrdV9BNC5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:45.484180"
+    "lastUpdated": "2026-11-03T13:28:16.751520"
   },
   {
     "id": "84731fb8-c211-4160-86db-96a9e2d7783e",
@@ -267,7 +267,7 @@
     "occupancy": 6.81,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4061/qJWsytWZwFPFuO4fZUZF9YkWwS8L9T-metaS2FiYWRkaSA1XyBLaW5vIE15eXJpLmpwZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:45.660740"
+    "lastUpdated": "2026-11-03T13:28:16.958502"
   },
   {
     "id": "92387d33-972e-43c1-a54a-c3510fb44c01",
@@ -282,7 +282,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2644/bolero_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:45.833583"
+    "lastUpdated": "2026-11-03T13:28:17.157772"
   },
   {
     "id": "c4ae70f3-3e7a-4403-950a-665c5a94f53e",
@@ -297,7 +297,7 @@
     "occupancy": 37.17,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4017/8eZPMMKQ00UpuDffBaarANAAIYezRv-metaMTA0MjZfS255Y2tlcnR6T2NoU251dGpha3Rlbl9WT0Qta2V5YXJ0LTE0MDAtMjEwMF9TVl9zd2VfbGl0ZW4uanBn-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:46.023006"
+    "lastUpdated": "2026-11-03T13:28:17.963866"
   },
   {
     "id": "069572ba-c330-411f-85e1-6235d9f4a2b6",
@@ -312,7 +312,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2644/bolero_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:46.202653"
+    "lastUpdated": "2026-11-03T13:28:18.177312"
   },
   {
     "id": "aeed0300-39df-4cff-8cb8-b8a12ad50e60",
@@ -327,7 +327,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2910/xEs53bHpu1gUiYBOg0ZuHmJqBGdI1r-metaaXNhbnBhaXZhXzcwXzEwMC5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:46.374087"
+    "lastUpdated": "2026-11-03T13:28:18.375479"
   },
   {
     "id": "b2d8cd36-7c95-4e60-8087-186d1392d79f",
@@ -342,7 +342,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4013/mina-ja-riikka-purra_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:46.544819"
+    "lastUpdated": "2026-11-03T13:28:18.576520"
   },
   {
     "id": "54c6080c-29cc-4c32-8a96-4a82fa8bdfdd",
@@ -357,7 +357,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2910/xEs53bHpu1gUiYBOg0ZuHmJqBGdI1r-metaaXNhbnBhaXZhXzcwXzEwMC5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:46.717677"
+    "lastUpdated": "2026-11-03T13:28:18.775370"
   },
   {
     "id": "dce04a0d-93d7-429b-9fe8-b79a871a192e",
@@ -366,13 +366,13 @@
     "time": "16:00",
     "price": 12.5,
     "sold": 0,
-    "free": 187,
-    "total": 187,
+    "free": 185,
+    "total": 185,
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4088/you-can-see-everything_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:46.889072"
+    "lastUpdated": "2026-11-03T13:28:18.970303"
   },
   {
     "id": "59e08841-0659-479c-a94f-9969e7e91dcf",
@@ -387,14 +387,14 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2791/_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:47.062623"
+    "lastUpdated": "2026-11-03T13:28:19.174955"
   },
   {
     "id": "b35f64cd-2053-4ed1-8acf-6374d19ba3aa",
     "movie": "Nina Roza",
     "date": "2026-12-05",
     "time": "13:00",
-    "price": 17,
+    "price": 15,
     "sold": 0,
     "free": 191,
     "total": 191,
@@ -402,6 +402,51 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4019/nina-roza_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-03T05:46:47.232623"
+    "lastUpdated": "2026-11-03T13:28:19.386031"
+  },
+  {
+    "id": "45ce0ed4-ee8a-44cc-b1a5-029840e745b5",
+    "movie": "Late Lammas -elokuva: Hämäräpuuhissa",
+    "date": "2026-11-07",
+    "time": "12:15",
+    "price": 12.5,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3891/shaun-the-sheep-the-beast-of-mossy-bottom_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-11-03T13:28:17.357806"
+  },
+  {
+    "id": "acec265d-0376-4a41-8fec-37080464dedb",
+    "movie": "Lapin sota",
+    "date": "2026-11-07",
+    "time": "13:45",
+    "price": 12.5,
+    "sold": 0,
+    "free": 188,
+    "total": 188,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3934/lapin-sota_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-11-03T13:28:17.555331"
+  },
+  {
+    "id": "80c55eb6-a7f3-4cd8-a819-af175b84fa59",
+    "movie": "Ramayana: Rise of a Legend",
+    "date": "2026-11-07",
+    "time": "16:45",
+    "price": 12.5,
+    "sold": 0,
+    "free": 191,
+    "total": 191,
+    "gross": 0.0,
+    "occupancy": 0.0,
+    "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4141/ramayana_poster.jpg?width=1000&quality=85",
+    "status": "ok",
+    "lastUpdated": "2026-11-03T13:28:17.753550"
   }
 ]
