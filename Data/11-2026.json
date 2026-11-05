@@ -221,7 +221,7 @@
     "gross": 1680,
     "occupancy": 87.96,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3807/kerro-kaikille_poster.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-11-05T08:58:21.430539"
   },
   {
@@ -236,7 +236,7 @@
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4027/der-held-vom-bahnhof-friedrichstrasse_poster.jpg?width=1000&quality=85",
-    "status": "ok",
+    "status": "missing",
     "lastUpdated": "2026-11-05T08:58:21.638927"
   },
   {
@@ -245,14 +245,14 @@
     "date": "2026-11-05",
     "time": "17:15",
     "price": 16.5,
-    "sold": 27,
-    "free": 164,
+    "sold": 40,
+    "free": 151,
     "total": 191,
-    "gross": 445.5,
-    "occupancy": 14.14,
+    "gross": 660.0,
+    "occupancy": 20.94,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3918/Bz3KH38LKTATCaaee0TxNL3TxI1Jqa-metaTXVzdGFfcG9yaV9uMmtrdV9BNC5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:21.842249"
+    "lastUpdated": "2026-11-05T17:11:04.230117"
   },
   {
     "id": "84731fb8-c211-4160-86db-96a9e2d7783e",
@@ -260,14 +260,14 @@
     "date": "2026-11-06",
     "time": "17:15",
     "price": 16.9,
-    "sold": 22,
-    "free": 169,
+    "sold": 24,
+    "free": 167,
     "total": 191,
-    "gross": 371.8,
-    "occupancy": 11.52,
+    "gross": 405.6,
+    "occupancy": 12.57,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4061/qJWsytWZwFPFuO4fZUZF9YkWwS8L9T-metaS2FiYWRkaSA1XyBLaW5vIE15eXJpLmpwZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:22.461933"
+    "lastUpdated": "2026-11-05T17:11:04.724149"
   },
   {
     "id": "92387d33-972e-43c1-a54a-c3510fb44c01",
@@ -282,7 +282,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2644/bolero_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:22.670675"
+    "lastUpdated": "2026-11-05T17:11:04.893092"
   },
   {
     "id": "c4ae70f3-3e7a-4403-950a-665c5a94f53e",
@@ -297,7 +297,7 @@
     "occupancy": 38.22,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4017/8eZPMMKQ00UpuDffBaarANAAIYezRv-metaMTA0MjZfS255Y2tlcnR6T2NoU251dGpha3Rlbl9WT0Qta2V5YXJ0LTE0MDAtMjEwMF9TVl9zd2VfbGl0ZW4uanBn-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:23.511724"
+    "lastUpdated": "2026-11-05T17:11:05.590808"
   },
   {
     "id": "069572ba-c330-411f-85e1-6235d9f4a2b6",
@@ -312,7 +312,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2644/bolero_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:26.037164"
+    "lastUpdated": "2026-11-05T17:11:07.616297"
   },
   {
     "id": "aeed0300-39df-4cff-8cb8-b8a12ad50e60",
@@ -327,7 +327,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2910/xEs53bHpu1gUiYBOg0ZuHmJqBGdI1r-metaaXNhbnBhaXZhXzcwXzEwMC5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:27.049916"
+    "lastUpdated": "2026-11-05T17:11:08.464111"
   },
   {
     "id": "b2d8cd36-7c95-4e60-8087-186d1392d79f",
@@ -342,7 +342,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4013/mina-ja-riikka-purra_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:27.248321"
+    "lastUpdated": "2026-11-05T17:11:08.636892"
   },
   {
     "id": "54c6080c-29cc-4c32-8a96-4a82fa8bdfdd",
@@ -357,7 +357,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/2910/xEs53bHpu1gUiYBOg0ZuHmJqBGdI1r-metaaXNhbnBhaXZhXzcwXzEwMC5qcGc=-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:27.449587"
+    "lastUpdated": "2026-11-05T17:11:08.802431"
   },
   {
     "id": "dce04a0d-93d7-429b-9fe8-b79a871a192e",
@@ -372,7 +372,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4088/you-can-see-everything_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:27.652006"
+    "lastUpdated": "2026-11-05T17:11:08.968051"
   },
   {
     "id": "59e08841-0659-479c-a94f-9969e7e91dcf",
@@ -395,14 +395,14 @@
     "date": "2026-12-05",
     "time": "13:00",
     "price": 15,
-    "sold": 1,
-    "free": 190,
+    "sold": 0,
+    "free": 191,
     "total": 191,
-    "gross": 15,
-    "occupancy": 0.52,
+    "gross": 0,
+    "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4019/nina-roza_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:27.852623"
+    "lastUpdated": "2026-11-05T17:11:09.137277"
   },
   {
     "id": "45ce0ed4-ee8a-44cc-b1a5-029840e745b5",
@@ -417,7 +417,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3891/shaun-the-sheep-the-beast-of-mossy-bottom_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:22.869105"
+    "lastUpdated": "2026-11-05T17:11:05.056610"
   },
   {
     "id": "acec265d-0376-4a41-8fec-37080464dedb",
@@ -432,7 +432,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3934/lapin-sota_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:23.076990"
+    "lastUpdated": "2026-11-05T17:11:05.225425"
   },
   {
     "id": "80c55eb6-a7f3-4cd8-a819-af175b84fa59",
@@ -440,14 +440,14 @@
     "date": "2026-11-07",
     "time": "16:45",
     "price": 12.5,
-    "sold": 8,
-    "free": 183,
+    "sold": 13,
+    "free": 178,
     "total": 191,
-    "gross": 100.0,
-    "occupancy": 4.19,
+    "gross": 162.5,
+    "occupancy": 6.81,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4141/ramayana_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:23.285224"
+    "lastUpdated": "2026-11-05T17:11:05.398719"
   },
   {
     "id": "f5b4e400-2dc7-48a6-b7b7-24290a0a1836",
@@ -456,13 +456,13 @@
     "time": "13:00",
     "price": 12.5,
     "sold": 0,
-    "free": 188,
-    "total": 188,
+    "free": 178,
+    "total": 178,
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3807/kerro-kaikille_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:22.045247"
+    "lastUpdated": "2026-11-05T17:11:04.391594"
   },
   {
     "id": "be74a513-d907-4375-bfd4-d0df76c6df81",
@@ -477,7 +477,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4112/nightborn_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:22.253226"
+    "lastUpdated": "2026-11-05T17:11:04.557424"
   },
   {
     "id": "1f17faad-4ba8-4ea7-8816-e7737dfb7031",
@@ -486,13 +486,13 @@
     "time": "11:45",
     "price": 11,
     "sold": 0,
-    "free": 185,
-    "total": 185,
+    "free": 182,
+    "total": 182,
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4020/pikkuli-ja-tahtipeura_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:23.713918"
+    "lastUpdated": "2026-11-05T17:11:05.754449"
   },
   {
     "id": "472dc257-afbf-4f7f-8b57-99de31d8146f",
@@ -507,7 +507,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3888/D5RwY8YOGsRSd4SGkp5CutWx1esyge-metaMV9BcnRfTWNMYXJlbl9ESUdJX0xSLmpwZw==-.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:23.917716"
+    "lastUpdated": "2026-11-05T17:11:05.926065"
   },
   {
     "id": "cc5f6aed-f337-4469-8931-b4f1ea0c4360",
@@ -522,7 +522,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3934/lapin-sota_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:24.118247"
+    "lastUpdated": "2026-11-05T17:11:06.092019"
   },
   {
     "id": "2f3c24db-3199-4dfd-a9bf-516c7c4f0f43",
@@ -537,7 +537,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3831/la-grazia_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:24.321794"
+    "lastUpdated": "2026-11-05T17:11:06.273806"
   },
   {
     "id": "cee2cb41-be7a-46d7-8551-e89953a0e6e4",
@@ -552,7 +552,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3979/resan-till-piemonte_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:24.530360"
+    "lastUpdated": "2026-11-05T17:11:06.436883"
   },
   {
     "id": "7fd94118-50f4-4ea4-b779-54b1242b20e3",
@@ -567,7 +567,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3807/kerro-kaikille_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:24.730920"
+    "lastUpdated": "2026-11-05T17:11:06.604966"
   },
   {
     "id": "039d3204-bc90-4b90-b7bc-633af67be3ae",
@@ -575,14 +575,14 @@
     "date": "2026-11-09",
     "time": "17:30",
     "price": 15,
-    "sold": 45,
-    "free": 146,
+    "sold": 55,
+    "free": 136,
     "total": 191,
-    "gross": 675,
-    "occupancy": 23.56,
+    "gross": 825,
+    "occupancy": 28.8,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4150/jaofcCruPeGfLGpfzSioLInvQ34ykq-metaU2NlbmUgMiAoMikuanBlZw==-.jpeg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:24.942057"
+    "lastUpdated": "2026-11-05T17:11:06.774520"
   },
   {
     "id": "c536a8e6-cca4-40ce-b43f-79977ed48d10",
@@ -597,7 +597,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4000/sense-and-sensibility_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:25.223185"
+    "lastUpdated": "2026-11-05T17:11:06.944457"
   },
   {
     "id": "4fb9e82f-460b-4399-8be0-4f83ae9770bc",
@@ -612,7 +612,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3934/lapin-sota_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:25.430493"
+    "lastUpdated": "2026-11-05T17:11:07.111592"
   },
   {
     "id": "e0a46257-c4b8-425b-9d31-a3e5230e33a5",
@@ -627,7 +627,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4027/der-held-vom-bahnhof-friedrichstrasse_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:25.632256"
+    "lastUpdated": "2026-11-05T17:11:07.285585"
   },
   {
     "id": "ed6b8706-f2cf-43ba-9b76-6d92ace94581",
@@ -642,7 +642,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3934/lapin-sota_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:25.836906"
+    "lastUpdated": "2026-11-05T17:11:07.451089"
   },
   {
     "id": "bc313755-f6c0-4269-b56a-e6c76792e609",
@@ -657,7 +657,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4063/wild-horse-nine_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:26.237228"
+    "lastUpdated": "2026-11-05T17:11:07.792246"
   },
   {
     "id": "31f4f27b-d3a2-42ec-ab46-4b4043874500",
@@ -672,7 +672,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3807/kerro-kaikille_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:26.436853"
+    "lastUpdated": "2026-11-05T17:11:07.956990"
   },
   {
     "id": "f3718bf9-30cc-4f8f-99bc-9a6dbceb7261",
@@ -687,7 +687,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4044/wildwood_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:26.634791"
+    "lastUpdated": "2026-11-05T17:11:08.126818"
   },
   {
     "id": "f280ab07-59e5-4965-9241-20afe22173ad",
@@ -702,7 +702,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4112/nightborn_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-05T08:58:26.835708"
+    "lastUpdated": "2026-11-05T17:11:08.290793"
   },
   {
     "id": "683fd7c4-4568-45c4-9b95-56f4580ec23d",
