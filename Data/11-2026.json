@@ -402,7 +402,7 @@
     "occupancy": 2.09,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4019/nina-roza_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:08.514807"
+    "lastUpdated": "2026-11-28T09:42:26.654838"
   },
   {
     "id": "45ce0ed4-ee8a-44cc-b1a5-029840e745b5",
@@ -777,7 +777,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4092/dune-part-three_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:08.666349"
+    "lastUpdated": "2026-11-28T09:42:26.870109"
   },
   {
     "id": "156e2233-486f-4c02-9f73-65720e3be8d4",
@@ -1356,13 +1356,13 @@
     "time": "10:00",
     "price": 8,
     "sold": 0,
-    "free": 186,
-    "total": 186,
+    "free": 162,
+    "total": 162,
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3155/calle-malaga_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:05.920056"
+    "lastUpdated": "2026-11-28T09:42:22.986920"
   },
   {
     "id": "a9d8cd6e-4065-4de1-9f12-4fff673a40eb",
@@ -1371,13 +1371,13 @@
     "time": "15:00",
     "price": 8,
     "sold": 0,
-    "free": 186,
-    "total": 186,
+    "free": 182,
+    "total": 182,
     "gross": 0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3155/calle-malaga_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:07.589679"
+    "lastUpdated": "2026-11-28T09:42:25.363014"
   },
   {
     "id": "024f1360-d5d8-4f36-9833-da126b16236a",
@@ -1437,7 +1437,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4000/sense-and-sensibility_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:07.887210"
+    "lastUpdated": "2026-11-28T09:42:25.791897"
   },
   {
     "id": "3ed38049-e840-448b-8df7-16e664259029",
@@ -1497,7 +1497,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4286/hexed_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:06.069175"
+    "lastUpdated": "2026-11-28T09:42:23.203573"
   },
   {
     "id": "9f78c0de-4371-4bb3-aa23-e0296d866386",
@@ -1512,7 +1512,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4235/la-bola-negra_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:06.230668"
+    "lastUpdated": "2026-11-28T09:42:23.413862"
   },
   {
     "id": "238167af-9b6f-4785-9e19-43306a65faf5",
@@ -1527,7 +1527,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4088/you-can-see-everything_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:06.381819"
+    "lastUpdated": "2026-11-28T09:42:23.626258"
   },
   {
     "id": "4ebb99af-465f-4f82-884c-7e7a5df08372",
@@ -1542,7 +1542,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4157/julenissens-verksted_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:06.534496"
+    "lastUpdated": "2026-11-28T09:42:23.840563"
   },
   {
     "id": "dd25933f-929d-40a0-9f77-bccf205afe32",
@@ -1551,13 +1551,13 @@
     "time": "12:30",
     "price": 12.5,
     "sold": 0,
-    "free": 188,
-    "total": 188,
+    "free": 186,
+    "total": 186,
     "gross": 0.0,
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4088/you-can-see-everything_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:06.680347"
+    "lastUpdated": "2026-11-28T09:42:24.054923"
   },
   {
     "id": "e64b97fd-c50a-4b64-b8e8-0f8cce944c9c",
@@ -1572,7 +1572,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3934/lapin-sota_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:06.827719"
+    "lastUpdated": "2026-11-28T09:42:24.266618"
   },
   {
     "id": "046b5f81-61fe-4911-b734-19b169943e50",
@@ -1587,7 +1587,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3979/resan-till-piemonte_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:06.982661"
+    "lastUpdated": "2026-11-28T09:42:24.484868"
   },
   {
     "id": "f8c1435f-d631-403a-890a-2141bd46fe4c",
@@ -1602,7 +1602,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3934/lapin-sota_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:07.134115"
+    "lastUpdated": "2026-11-28T09:42:24.699045"
   },
   {
     "id": "431c0a7d-707d-4cf4-9939-81a25016abe5",
@@ -1617,7 +1617,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4235/la-bola-negra_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:07.290756"
+    "lastUpdated": "2026-11-28T09:42:24.925204"
   },
   {
     "id": "0cb26b72-678b-4f4d-88c0-25bcee72b1f1",
@@ -1632,7 +1632,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/3807/kerro-kaikille_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:07.441866"
+    "lastUpdated": "2026-11-28T09:42:25.147209"
   },
   {
     "id": "dc361c96-3655-40bc-a0db-b1ecda3f9dd0",
@@ -1647,7 +1647,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4063/wild-horse-nine_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:07.738405"
+    "lastUpdated": "2026-11-28T09:42:25.575789"
   },
   {
     "id": "7f2e8d74-7437-40e9-851c-a4b836c4b9a5",
@@ -1662,7 +1662,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4299/hako-no-naka-no-hitsuji_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:08.044133"
+    "lastUpdated": "2026-11-28T09:42:26.016013"
   },
   {
     "id": "f249223a-3aa9-41d6-96be-0d884f0d0a79",
@@ -1677,7 +1677,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4088/you-can-see-everything_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:08.196349"
+    "lastUpdated": "2026-11-28T09:42:26.226480"
   },
   {
     "id": "983e0620-8683-48df-8200-e6a56b5cc1a1",
@@ -1692,7 +1692,7 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4312/minotaur_poster.jpg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:08.360771"
+    "lastUpdated": "2026-11-28T09:42:26.439692"
   },
   {
     "id": "c0b33021-efb5-4d1e-88d4-ba604dc57077",
@@ -1707,6 +1707,6 @@
     "occupancy": 0.0,
     "poster": "https://media.kinola.ee/storage/myyri.kinola.ee/4316/Cdmc3MuYffsnBLLL94FTlzD1HjRxhM-metaV2hhdHNBcHAgSW1hZ2UgMjAyNi0xMS0yMyBhdCAxOC4wMy41MC5qcGVn-.jpeg?width=1000&quality=85",
     "status": "ok",
-    "lastUpdated": "2026-11-28T01:45:08.818695"
+    "lastUpdated": "2026-11-28T09:42:27.088171"
   }
 ]
